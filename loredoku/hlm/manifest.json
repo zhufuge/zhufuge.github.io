@@ -1,0 +1,676 @@
+{
+  "format": "loredoku-theme",
+  "formatVersion": 1,
+  "exportedAt": "2026-11-17T07:24:20.715Z",
+  "theme": {
+    "code": "hlm",
+    "name": "红楼梦",
+    "description": "满纸荒唐言，一把辛酸泪。 都云作者痴，谁解其中味。",
+    "difficultyLevels": [
+      {
+        "label": "初",
+        "level": 1
+      },
+      {
+        "label": "平",
+        "level": 2
+      },
+      {
+        "label": "通",
+        "level": 3
+      },
+      {
+        "label": "灵",
+        "level": 4
+      },
+      {
+        "label": "仙",
+        "level": 5
+      }
+    ],
+    "ring": {
+      "image": {
+        "path": "files/ring/ring.webp"
+      }
+    },
+    "checkStyle": {
+      "passColor": "#B8860B",
+      "failColor": "#5A1F1B"
+    }
+  },
+  "games": [
+    {
+      "key": "puzzle-hlm-sishan",
+      "file": "puzzles/puzzle-hlm-sishan.json",
+      "name": "撕扇子作千金一笑",
+      "puzzleName": "撕扇子作千金一笑",
+      "gridSize": 4,
+      "difficulty": 1,
+      "cover": "files/covers/1.webp"
+    },
+    {
+      "key": "puzzle-hlm-shilin",
+      "file": "puzzles/puzzle-hlm-shilin.json",
+      "name": "因麒麟伏白首双星",
+      "puzzleName": "因麒麟伏白首双星",
+      "gridSize": 5,
+      "difficulty": 1,
+      "cover": "files/covers/2.webp"
+    },
+    {
+      "key": "puzzle-hlm-yudailinzhonggua",
+      "file": "puzzles/puzzle-hlm-yudailinzhonggua.json",
+      "name": "玉带林中挂",
+      "puzzleName": "玉带林中挂",
+      "gridSize": 5,
+      "difficulty": 1,
+      "cover": "files/covers/3.webp"
+    },
+    {
+      "key": "puzzle-hlm-jinzanxuelimai",
+      "file": "puzzles/puzzle-hlm-jinzanxuelimai.json",
+      "name": "金簪雪里埋",
+      "puzzleName": "金簪雪里埋",
+      "gridSize": 5,
+      "difficulty": 1,
+      "cover": "files/covers/4.webp"
+    },
+    {
+      "key": "puzzle-hlm-yicongerling",
+      "file": "puzzles/puzzle-hlm-yicongerling.json",
+      "name": "一从二令三人木",
+      "puzzleName": "一从二令三人木",
+      "gridSize": 5,
+      "difficulty": 3,
+      "cover": "files/covers/5.webp"
+    },
+    {
+      "key": "puzzle-hlm-jiaoxiake",
+      "file": "puzzles/puzzle-hlm-jiaoxiake.json",
+      "name": "蕉下客",
+      "puzzleName": "蕉下客",
+      "gridSize": 6,
+      "difficulty": 2,
+      "cover": null
+    }
+  ],
+  "assets": "assets.json",
+  "characters": "characters.json",
+  "fonts": [
+    {
+      "family": "霞鹜文楷",
+      "builtin": true
+    }
+  ],
+  "files": [
+    {
+      "path": "theme.json",
+      "bytes": 181,
+      "sha256": "fae108ed6c8f7d69c3153e79230b505b263b57926328b703eaf3498b7ee0ba62"
+    },
+    {
+      "path": "assets.json",
+      "bytes": 40765,
+      "sha256": "df520427d024f399d5613a384fa47e4b9cbc1683fe3e33045cba9b3ca8b55b81"
+    },
+    {
+      "path": "characters.json",
+      "bytes": 11966,
+      "sha256": "4f601773b6f2d873178b46e0728c774e242407d2701222c99fc41cf8b00d8da4"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-sishan.json",
+      "bytes": 16439,
+      "sha256": "7afc867afb3e773fd9bdca05c2cda85e3a30b2a6fb5208ad6b160b65c0d60c9d"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-shilin.json",
+      "bytes": 20910,
+      "sha256": "e6756a166fb159486a3e562a59520a47c02a0d445de4534f7c0e339122d94007"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-yudailinzhonggua.json",
+      "bytes": 20741,
+      "sha256": "5b11ae965246c1e272df0d88de4a5cacccf8f4b3a627b5cba6ac3a3cb7255064"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-jinzanxuelimai.json",
+      "bytes": 21191,
+      "sha256": "b3af2aacad27cc8c898cb1b77b24e9ffdee5287018bbcdb6012179c75bc629b1"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-yicongerling.json",
+      "bytes": 22563,
+      "sha256": "8c71be6e793cb528001aa255f025696a9c7aa728afbce344cf95b72c7136907c"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-jiaoxiake.json",
+      "bytes": 26021,
+      "sha256": "291041f034a2f4f6cbbf9f105740ced6827d519fb93a935886cecbcca234d4a4"
+    },
+    {
+      "path": "files/assets/1-hlm_stone_paving-1.webp",
+      "bytes": 27144,
+      "sha256": "f54c1365ac7b0c5c36db1c20c7d8c42f492510bc98b1af49ef118dc82d22dc9d"
+    },
+    {
+      "path": "files/assets/1-hlm_stone_paving-2.webp",
+      "bytes": 27280,
+      "sha256": "a20225c8a15c609be81ea8bb0c4e384cd225aa25bc346463335513376fc11688"
+    },
+    {
+      "path": "files/assets/1-hlm_stone_paving-3.webp",
+      "bytes": 21160,
+      "sha256": "0ce5f7deedbdde0198b7f2896f216a84308ea43a5581286cb1db88da68eef76a"
+    },
+    {
+      "path": "files/assets/2-hlm_grassy_ground.webp",
+      "bytes": 30064,
+      "sha256": "5faa8069fb9a8ec95b86b452840c2a0437dd1a64edfcfb8e65b2a79835858b14"
+    },
+    {
+      "path": "files/assets/3-hlm_rockery-1.webp",
+      "bytes": 21496,
+      "sha256": "b9ce46565dd34a9c38eb9f743f23e5e0b1f336ec8cba3588304d8c659665fbf8"
+    },
+    {
+      "path": "files/assets/3-hlm_rockery-2.webp",
+      "bytes": 24956,
+      "sha256": "beb8e69bf232a2a1a51a2e38f758a5eea77e965c33132a1396836dd298d6c998"
+    },
+    {
+      "path": "files/assets/4-hlm_flower_grave.webp",
+      "bytes": 25326,
+      "sha256": "c82d5b05d10faa0a004fb4c91dc30aeb6b1f739e306f82e26d098beaadd7e8d9"
+    },
+    {
+      "path": "files/assets/5-hlm_banana.webp",
+      "bytes": 46670,
+      "sha256": "1bc02a5b4671e88e7dbf1cb2021f3f6dbc00265a01fc342846a9635db422ebe7"
+    },
+    {
+      "path": "files/assets/6-hlm_stone_path.webp",
+      "bytes": 23588,
+      "sha256": "af5e87f2daccf5d4e530f79ab6f0e3d821512f515697875d08113f9dc27efc64"
+    },
+    {
+      "path": "files/assets/7-hlm_folding_fan.webp",
+      "bytes": 39650,
+      "sha256": "a0c2d301cd7cda21595bd231ab1effd610ae426af2f64a7e6221992ff966a306"
+    },
+    {
+      "path": "files/assets/8-hlm_stone_table.webp",
+      "bytes": 40708,
+      "sha256": "09eb393d3d9a9fadb5f9868003eeb75e00379bd6561df2089b718b29648ebcff"
+    },
+    {
+      "path": "files/assets/9-hlm_stone_bench.webp",
+      "bytes": 34188,
+      "sha256": "00d615dcb32ef829409e58c30991c22b5c332137c67a54a54a32edd8a9496758"
+    },
+    {
+      "path": "files/assets/10-hlm_steps.webp",
+      "bytes": 19510,
+      "sha256": "a4090ccdb6d6b5d92686a99ee47d3a55697ab4f0dc188efa63a9c023bbed53c0"
+    },
+    {
+      "path": "files/assets/11-hlm_rose_bushes-1.webp",
+      "bytes": 111116,
+      "sha256": "c4f9e1e58619fb8bf861b2842ad286c2a289b4d78717fa0e79828d063ab70283"
+    },
+    {
+      "path": "files/assets/11-hlm_rose_bushes-2.webp",
+      "bytes": 138308,
+      "sha256": "c71a84821fd6ff259fb60fa4b1082619fed5dec6b7a32fdffdfbbd389976c230"
+    },
+    {
+      "path": "files/assets/12-hlm_jinqilin.webp",
+      "bytes": 54036,
+      "sha256": "db9d0f02bdcb45c3115b35ee9e9d5c95a788e3189d089510267eb10a4ec2db73"
+    },
+    {
+      "path": "files/assets/13-hlm_shrubs.webp",
+      "bytes": 115458,
+      "sha256": "7b1f32db8e63bb590a297f59a3b9e95f47cbb093007fa86f66cb9eecb4aee0d0"
+    },
+    {
+      "path": "files/assets/14-hlm_pavilion_ground.webp",
+      "bytes": 28860,
+      "sha256": "7e32f4bf87f109f640633ff651476d17e86cbc2c8eb852bbf739a3df93161ec7"
+    },
+    {
+      "path": "files/assets/15-hlm_stool-1.webp",
+      "bytes": 14612,
+      "sha256": "eb5e14bb744a97701352d65b4bd008c815ea4b0a4c9b93b274ff14dbe149e03f"
+    },
+    {
+      "path": "files/assets/15-hlm_stool-2.webp",
+      "bytes": 25212,
+      "sha256": "c9cf3235d2396a7b93f6fc065d4cb37b5db272236d3dbbc805e24242242ce7a9"
+    },
+    {
+      "path": "files/assets/16-hlm_room_ground-1.webp",
+      "bytes": 5302,
+      "sha256": "84f0affa073b7d55f3c018fbd447c7b1bdf9f5c53c676f0e6090b6df3f9ccebb"
+    },
+    {
+      "path": "files/assets/16-hlm_room_ground-3.webp",
+      "bytes": 23096,
+      "sha256": "1d45c97fbf03645d29ccff1ad3dbae3ca0228133706bd566266187bae204e5f4"
+    },
+    {
+      "path": "files/assets/16-hlm_room_ground-4.webp",
+      "bytes": 9998,
+      "sha256": "776d2237cc95f27bbecce98ecf241675c2814ca2970d67abee7d61921d8114e9"
+    },
+    {
+      "path": "files/assets/17-hlm_chair-1.webp",
+      "bytes": 40024,
+      "sha256": "f4bcc30ee91105321a3996790e5a721e58c2a7b2d61407a4aa09e372ee55afa4"
+    },
+    {
+      "path": "files/assets/17-hlm_chair-2.webp",
+      "bytes": 42310,
+      "sha256": "f8973d5b58bcac150a546e9f995f9038a307fd13baf7cf7c3b964f02e7cc5c63"
+    },
+    {
+      "path": "files/assets/18-hlm_pond_ground.webp",
+      "bytes": 6834,
+      "sha256": "0834148479e40a1e2bc99f64eefc36a96ebd812d4f845eb74c5f8fdba4e4c0f8"
+    },
+    {
+      "path": "files/assets/19-hlm_lotus_leaf.webp",
+      "bytes": 23906,
+      "sha256": "97e17907b0ce8e4fba74b3276bc048d8e404af680c19fa5458546758b83ace15"
+    },
+    {
+      "path": "files/assets/20-hlm_bookshelf.webp",
+      "bytes": 62446,
+      "sha256": "fedb004a51d54a4e50d7e1492b0c52ffafd053eca93ad31b759cf50b365b856a"
+    },
+    {
+      "path": "files/assets/21-hlm_bamboo_ground.webp",
+      "bytes": 24822,
+      "sha256": "b4b2e03ed681590bf9b7b5cf0ab483eedc241017cdb9769a3a57046fbddd10b0"
+    },
+    {
+      "path": "files/assets/22-hlm_poem_slip.webp",
+      "bytes": 28322,
+      "sha256": "ff9350b4ac3219f1c24ad626771ba1d0f49444842ce41c507028f92a86287470"
+    },
+    {
+      "path": "files/assets/23-hlm_bamboo_grove.webp",
+      "bytes": 168194,
+      "sha256": "111bcebb14f95124be9f50668120ba0214dde2e9d49662cca026d5ef7073b01a"
+    },
+    {
+      "path": "files/assets/24-hlm_pear_tree-1.webp",
+      "bytes": 81036,
+      "sha256": "9344a56fea0f21b735b13fbb720c4be3242419736eff783c0952d14d153bb66f"
+    },
+    {
+      "path": "files/assets/24-hlm_pear_tree-2.webp",
+      "bytes": 48876,
+      "sha256": "85c6dd0219312134a25761b93ab3d2a826a9bc435ccca2d15dcd670348fca629"
+    },
+    {
+      "path": "files/assets/25-hlm_kang-1.webp",
+      "bytes": 38420,
+      "sha256": "67bb238ec85f73ed2ecf0863c9f3132d2c2def2542b180c5b2406e007ffdbae6"
+    },
+    {
+      "path": "files/assets/25-hlm_kang-2.webp",
+      "bytes": 42894,
+      "sha256": "6097baa7a0c2932e6b24d934e691c250fc95d36a13d6a2baf5dbffeb668a7c08"
+    },
+    {
+      "path": "files/assets/25-hlm_kang-3.webp",
+      "bytes": 40542,
+      "sha256": "e3912d1fc0fe88ee2a299483bfde3aa42fe60ebe18c09f3c224b407827e20dd6"
+    },
+    {
+      "path": "files/assets/26-hlm_stove.webp",
+      "bytes": 40698,
+      "sha256": "e87af29f69aaf062d28963424bcbe6e8f64e5a67381a89c3f86d24f164037029"
+    },
+    {
+      "path": "files/assets/27-hlm_snow_ground.webp",
+      "bytes": 21716,
+      "sha256": "faa0da07f77bab43c9f082070f1fae9efd0bf041851e9f55f2849fa5da808479"
+    },
+    {
+      "path": "files/assets/28-hlm_snow_heap.webp",
+      "bytes": 20000,
+      "sha256": "cd8afd11998107df91ba1214f8be577587476775cbb6a4bad4dbef2e7317213d"
+    },
+    {
+      "path": "files/assets/29-hlm_hairpin.webp",
+      "bytes": 30698,
+      "sha256": "d24c7fc5734dfaad5a23c19b92dd4a050419c0c60bd0665a787daedbf3451e82"
+    },
+    {
+      "path": "files/assets/30-hlm_plum.webp",
+      "bytes": 102110,
+      "sha256": "005ef7367c178f28c4b9bdaffe4cebc2a3ec72c7a40a6e10d5f8b2cb94454335"
+    },
+    {
+      "path": "files/assets/31-hlm_cold_pill.webp",
+      "bytes": 13204,
+      "sha256": "b41b2fa586897379832e33f347ca9d395fbb7d7ac00d600aaafc6491845273a1"
+    },
+    {
+      "path": "files/assets/32-hlm_desk.webp",
+      "bytes": 23258,
+      "sha256": "b6fee009463956fceb6d06b8cb540589d12fb0a2fcdde71defa61269c31dd1cf"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-1.webp",
+      "bytes": 13540,
+      "sha256": "b7898176deb67d799dd460f8d1cc94a94f5ba22871ea67d1d9adb2dc0a7ff9c0"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-2.webp",
+      "bytes": 10950,
+      "sha256": "d88e75a20309660e6248612d88f466f914cb7faeff8039ad0039329a48ddf682"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-3.webp",
+      "bytes": 11030,
+      "sha256": "bab7531d0072e47af46e907380dc2035fc5736aca2739ec8bb8a69ee792d4259"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-4.webp",
+      "bytes": 9082,
+      "sha256": "d27483982b33a6c7adbd57a7cb6b5f4114971e6660c2c69757f9d4b4b5b2b31a"
+    },
+    {
+      "path": "files/assets/34-hlm_brazier.webp",
+      "bytes": 39790,
+      "sha256": "ddcda7b3d5b2e20fdb5435a3fd7c4d2175a5ab4450afbd8be26b21e04be76df0"
+    },
+    {
+      "path": "files/assets/35-hlm_key.webp",
+      "bytes": 49054,
+      "sha256": "9d5459523055ee6296126d1b8f96105c991e878c861e9d254afebdd526e3b242"
+    },
+    {
+      "path": "files/assets/36-hlm_screen.webp",
+      "bytes": 32622,
+      "sha256": "c228494d70a162cc680dee33e6d0f88c50541435047d309def1c0a87d8c69532"
+    },
+    {
+      "path": "files/assets/37-hlm_chest.webp",
+      "bytes": 22142,
+      "sha256": "a28efc191e07ac85aaa66e4e54128903baf56315edf088bbdaaa6dcb322a3fab"
+    },
+    {
+      "path": "files/assets/38-hlm_ru_vase.webp",
+      "bytes": 25762,
+      "sha256": "c8ec720b1cddf90a68d33354e7d12e4c8c73d9cfd40b51c42317217915a717a9"
+    },
+    {
+      "path": "files/assets/39-hlm_banana_ground.webp",
+      "bytes": 27954,
+      "sha256": "b0f6c9a210ee29f693bd1caac91374c873acad1405828aa9bcaf8702daec0188"
+    },
+    {
+      "path": "files/assets/40-hlm_censer.webp",
+      "bytes": 18802,
+      "sha256": "d0f3c04c5de4d420607441cdfc028cd4814a4afaf24af57ae0304d0eb1825a9b"
+    },
+    {
+      "path": "files/assets/41-hlm_kite.webp",
+      "bytes": 48708,
+      "sha256": "08095b4749eddd41305e1699e172f5ede2ec10d55b9eba36ee1e6f3579c76c7b"
+    },
+    {
+      "path": "files/assets/42-hlm_wutong.webp",
+      "bytes": 80492,
+      "sha256": "bc3c52a17a4b4bade94f6e533d177789cb7006e177ea92ffb0d3b71c71f0d166"
+    },
+    {
+      "path": "files/avatars/1-hlm_jiabaoyu.webp",
+      "bytes": 11312,
+      "sha256": "4749fd08bc3d15bcb9789020839cfc57d8edc5620b5a7350d0c0009a8a0ea2e2"
+    },
+    {
+      "path": "files/avatars/2-hlm_qingwen.webp",
+      "bytes": 10532,
+      "sha256": "4bb93e234fb2fef3ed6670241ae464c18dc326d575d488ad381a9602e8167059"
+    },
+    {
+      "path": "files/avatars/3-hlm_xiren.webp",
+      "bytes": 9762,
+      "sha256": "f3f5eea391e4c519a0dc185fa997fa1498a81536df1cad287c42d1529803231d"
+    },
+    {
+      "path": "files/avatars/4-hlm_sheyue.webp",
+      "bytes": 9778,
+      "sha256": "9cb740f5308982d9ff8171d72d44c3ab46de40fbe04227d4d53cd65fb8dd721a"
+    },
+    {
+      "path": "files/avatars/5-hlm_shixiangyun.webp",
+      "bytes": 9990,
+      "sha256": "ecd435041c56034f29e933d060568531c2abef2713a8dc29f80837ef9c36a496"
+    },
+    {
+      "path": "files/avatars/6-hlm_cuilv.webp",
+      "bytes": 9322,
+      "sha256": "617ffa1970b7c4424b7d4369e8a80fdbc27106ce86d87799ad24a44d413d280c"
+    },
+    {
+      "path": "files/avatars/7-hlm_lindaiyu.webp",
+      "bytes": 9830,
+      "sha256": "f95a003a61eb2daa6a0637284b2d9994843e004408da36b3924ac4e46b8e846c"
+    },
+    {
+      "path": "files/avatars/8-hlm_xuebaochai.webp",
+      "bytes": 10024,
+      "sha256": "ac27db2f4fae0cca1c0508b74e653dabbcc46a9117ed563b94a13a3c4d4c242b"
+    },
+    {
+      "path": "files/avatars/9-hlm_zijuan.webp",
+      "bytes": 9572,
+      "sha256": "788f955371f2008fcf86a19c64b4c0d2c8e755328078cbe7e99e78a0b31029e9"
+    },
+    {
+      "path": "files/avatars/10-hlm_xueyima.webp",
+      "bytes": 9966,
+      "sha256": "01bf051dd2cf01b8d9430cc30f09ed06d7ea78aa191a82f029b0083e7eafdf9b"
+    },
+    {
+      "path": "files/avatars/11-hlm_yinger.webp",
+      "bytes": 10130,
+      "sha256": "18b87277645d75a3324a43e8cae50dee0be0d040c3409e9a4d8d539c008f2fad"
+    },
+    {
+      "path": "files/avatars/12-hlm_xiangling.webp",
+      "bytes": 10180,
+      "sha256": "dc014c26d61427e9f54ac067455180576b1d57b30da0fad456c6d195b1f96aa5"
+    },
+    {
+      "path": "files/avatars/13-hlm_wangxifeng.webp",
+      "bytes": 10518,
+      "sha256": "ab16743216429d0b25872ee978590f1bf23bc4d9542fe63289a634f98025e18b"
+    },
+    {
+      "path": "files/avatars/14-hlm_jialian.webp",
+      "bytes": 10284,
+      "sha256": "ec7ad09260e7c4b6e46de7acc229f0439bb41a5c3d6f0a2ad7dc6bae04c48854"
+    },
+    {
+      "path": "files/avatars/15-hlm_xinger.webp",
+      "bytes": 9778,
+      "sha256": "bd6f71ebc17b32f281671d4ac8b2b03a76ac11cb00fd6c6cf9f967b5dd236ba3"
+    },
+    {
+      "path": "files/avatars/16-hlm_youerjie.webp",
+      "bytes": 9306,
+      "sha256": "7e780de8adec5c83493f06d8cf32aec2f9d4f0e39ebf51b7f67a6e51f625f0b1"
+    },
+    {
+      "path": "files/avatars/17-hlm_pinger.webp",
+      "bytes": 9654,
+      "sha256": "99c8bcfc703993ac77bafeb5da15debccb378a76a0fed21771671f3843f7a755"
+    },
+    {
+      "path": "files/avatars/18-hlm_jiatanchun.webp",
+      "bytes": 9986,
+      "sha256": "c7d365bbb99e5ae8ee1a94dd427b35bbb949f20ce03f29d8c33735a81a944376"
+    },
+    {
+      "path": "files/avatars/19-hlm_shishu.webp",
+      "bytes": 9488,
+      "sha256": "6ae75841bb3746313ed854094725328e20ccd2222286596502aad39ddca5aaf3"
+    },
+    {
+      "path": "files/avatars/20-hlm_liwan.webp",
+      "bytes": 9248,
+      "sha256": "4493b265d859a8ffb9ef6159660fb4c3bf966d497a1c72a5088b13a1ba623c88"
+    },
+    {
+      "path": "files/avatars/21-hlm_jialan.webp",
+      "bytes": 9932,
+      "sha256": "6f154bef61f450b4967a4241d048f93c315b362165901d871ecf1a9f225a0f71"
+    },
+    {
+      "path": "files/avatars/22-hlm_cuimo.webp",
+      "bytes": 9444,
+      "sha256": "b3364aca6ed0f1e7d1d6584a2f5d1b383a3de4cea7ca1153ce65da158df59117"
+    },
+    {
+      "path": "files/avatars/23-hlm_zhaoyiniang.webp",
+      "bytes": 10526,
+      "sha256": "ab1d0d5ebac512f64eb4771f3914d42e0594897126e0d82d4c03894ced29b108"
+    },
+    {
+      "path": "files/covers/1.webp",
+      "bytes": 34282,
+      "sha256": "8a7fae99846e85de6f446cadc48e526664e0adf28549d1ff2928373359806bd7"
+    },
+    {
+      "path": "files/marks/theme.webp",
+      "bytes": 22894,
+      "sha256": "b02d6881e201d9bdfcdf04fd54089a10488a55d7033752b9e897dac5aa2c3580"
+    },
+    {
+      "path": "files/icons/theme-clear.webp",
+      "bytes": 30644,
+      "sha256": "2a59ed36a748c8e152d38dec870d0d9b91e03f0566cc21cbd519dd73d7d31c29"
+    },
+    {
+      "path": "files/icons/theme-undo.webp",
+      "bytes": 27010,
+      "sha256": "71fc181073938388ab72ffa2e357f6f0a5afc929392aadda011346ebc6411c1c"
+    },
+    {
+      "path": "files/icons/theme-submit.webp",
+      "bytes": 36368,
+      "sha256": "f7daceb883fc8c1810b19dc5827770de3a36f51cbe70754494cf264ed1d42723"
+    },
+    {
+      "path": "files/covers/2.webp",
+      "bytes": 42656,
+      "sha256": "b344486ed65c49adc1cacd03f6b1f4a2c8606d8777af6aac53e2febb649ee260"
+    },
+    {
+      "path": "files/covers/3.webp",
+      "bytes": 26718,
+      "sha256": "bd0713cfc74aca9f98385c8cbf043b99aa049d6fc04b76fe0f047a9e341b736a"
+    },
+    {
+      "path": "files/covers/4.webp",
+      "bytes": 21904,
+      "sha256": "73280d505fe44af75a9cdeb79781eff8bf96bfa1c6c90ebb68853d9d8980aecf"
+    },
+    {
+      "path": "files/covers/5.webp",
+      "bytes": 28800,
+      "sha256": "9b4737829e541c18b8bf978f465da76ac28acadfe31477865c9b5015a955db36"
+    },
+    {
+      "path": "files/ring/ring.webp",
+      "bytes": 28062,
+      "sha256": "b28ca3b1323b380e6ef8fbfde79573ad311d0df6ec7c7a298273d70e5bd36e2d"
+    }
+  ],
+  "originIds": {
+    "assets": {
+      "1": 4165,
+      "2": 4166,
+      "3": 4983,
+      "4": 4935,
+      "5": 5513,
+      "6": 4989,
+      "7": 4167,
+      "8": 4984,
+      "9": 5620,
+      "10": 4980,
+      "11": 11494,
+      "12": 4990,
+      "13": 11495,
+      "14": 10811,
+      "15": 4985,
+      "16": 11566,
+      "17": 13212,
+      "18": 11208,
+      "19": 11757,
+      "20": 11759,
+      "21": 5502,
+      "22": 5504,
+      "23": 12108,
+      "24": 11758,
+      "25": 5510,
+      "26": 11570,
+      "27": 5526,
+      "28": 5529,
+      "29": 11554,
+      "30": 5519,
+      "31": 11555,
+      "32": 5514,
+      "33": 13390,
+      "34": 5528,
+      "35": 5509,
+      "36": 5507,
+      "37": 11255,
+      "38": 13214,
+      "39": 5512,
+      "40": 5515,
+      "41": 5516,
+      "42": 13213
+    },
+    "characters": {
+      "1": 3058,
+      "2": 3060,
+      "3": 3059,
+      "4": 3061,
+      "5": 3063,
+      "6": 3064,
+      "7": 3062,
+      "8": 3435,
+      "9": 3436,
+      "10": 9456,
+      "11": 3459,
+      "12": 3456,
+      "13": 3437,
+      "14": 3438,
+      "15": 3441,
+      "16": 3439,
+      "17": 3440,
+      "18": 3442,
+      "19": 3446,
+      "20": 3444,
+      "21": 3445,
+      "22": 3443,
+      "23": 3447
+    },
+    "games": {
+      "puzzle-hlm-sishan": 7304,
+      "puzzle-hlm-shilin": 7305,
+      "puzzle-hlm-yudailinzhonggua": 7629,
+      "puzzle-hlm-jinzanxuelimai": 7634,
+      "puzzle-hlm-yicongerling": 7850,
+      "puzzle-hlm-jiaoxiake": 7852
+    }
+  }
+}

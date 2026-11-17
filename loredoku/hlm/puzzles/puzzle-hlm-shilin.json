@@ -1,0 +1,1031 @@
+{
+  "key": "puzzle-hlm-shilin",
+  "summary": {
+    "id": 7305,
+    "puzzleId": 20192,
+    "themeCode": "hlm",
+    "puzzleName": "因麒麟伏白首双星",
+    "puzzleVersionNo": 16,
+    "name": "因麒麟伏白首双星",
+    "slug": "puzzle-hlm-shilin",
+    "coverUrl": "http://localhost:3000/api/files/games/7305/f6ad9e24-11d5-4eb0-9396-fd98675f4542.png",
+    "difficulty": 1,
+    "sortWeight": 2,
+    "gridSize": 5,
+    "participantCount": 5,
+    "createdAt": "2026-11-14T07:43:24.410Z"
+  },
+  "map": {
+    "cells": {
+      "0,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 11,
+          "variantId": 12
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,1": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,2": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,3": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "0,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 5,
+          "offsetY": -0.25,
+          "variantId": 5
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.85,
+          "assetId": 12,
+          "offsetY": -0.1,
+          "variantId": 13
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,2": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "1,3": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "1,4": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "2,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "2,1": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "2,2": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "2,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 13,
+          "offsetY": -0.1,
+          "variantId": 14
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "2,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 3,
+          "offsetY": -0.2,
+          "variantId": 3
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "3,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 11,
+          "variantId": 12
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "3,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.1,
+          "assetId": 4,
+          "variantId": 4
+        },
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "3,2": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "3,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.85,
+          "assetId": 15,
+          "variantId": 16
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "3,4": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "4,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "4,1": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "4,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.85,
+          "assetId": 15,
+          "variantId": 16
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "4,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.15,
+          "assetId": 8,
+          "offsetY": -0.1,
+          "variantId": 9
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "4,4": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      }
+    },
+    "style": {
+      "ruler": {
+        "gap": 24,
+        "fontSize": 24
+      },
+      "cellSize": 146,
+      "canvasFrame": {
+        "color": "#4A3F35",
+        "width": 4
+      },
+      "itemOutline": {
+        "color": "#6A5647",
+        "width": 1
+      },
+      "regionLabel": {
+        "color": "#7A6E60",
+        "fontSize": 28,
+        "fontFamily": "霞鹜文楷",
+        "hoverColor": "#F4A83A",
+        "strokeColor": "#F7F1E6",
+        "strokeWidth": 4,
+        "hoverFontSize": 32,
+        "hoverStrokeColor": "#F7F1E6",
+        "hoverStrokeWidth": 0
+      },
+      "canvasShadow": {
+        "color": "#4A3F35",
+        "offset": 36
+      },
+      "gridSeparator": {
+        "color": "#B8AD9C",
+        "width": 2
+      },
+      "regionOutline": {
+        "color": "#6B6257",
+        "width": 4
+      },
+      "mouseCursorBox": {
+        "color": "#FFFFFF",
+        "width": 2,
+        "shadowColor": "rgba(0,0,0,0.15)",
+        "blockedColor": "#9E3D3D"
+      },
+      "regionHighlight": {
+        "color": "#F4A83A",
+        "width": 4
+      },
+      "operationCursorBox": {
+        "color": "#3B82F6",
+        "width": 2,
+        "offset": 1
+      }
+    },
+    "regions": [
+      {
+        "id": "rg_7511cf8b",
+        "name": "蔷薇架",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "labelCell": [
+          0,
+          2
+        ]
+      },
+      {
+        "id": "rg_pavilion",
+        "name": "亭子",
+        "cells": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        "labelCell": [
+          4,
+          3
+        ]
+      },
+      {
+        "id": "rg_d5298b44",
+        "name": "石径",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "labelCell": [
+          1,
+          3
+        ]
+      },
+      {
+        "id": "rg_4b6bfc78",
+        "name": "草坪",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "labelCell": [
+          2,
+          4
+        ]
+      }
+    ],
+    "version": 8,
+    "gridSize": 5
+  },
+  "puzzle": {
+    "map": {
+      "data": {
+        "cells": {
+          "0,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 11,
+              "variantId": 12
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,1": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,2": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,3": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "0,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 5,
+              "offsetY": -0.25,
+              "variantId": 5
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.85,
+              "assetId": 12,
+              "offsetY": -0.1,
+              "variantId": 13
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,2": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "1,3": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "1,4": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "2,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "2,1": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "2,2": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "2,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 13,
+              "offsetY": -0.1,
+              "variantId": 14
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "2,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 3,
+              "offsetY": -0.2,
+              "variantId": 3
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "3,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 11,
+              "variantId": 12
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "3,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.1,
+              "assetId": 4,
+              "variantId": 4
+            },
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "3,2": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "3,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.85,
+              "assetId": 15,
+              "variantId": 16
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "3,4": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "4,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "4,1": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "4,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.85,
+              "assetId": 15,
+              "variantId": 16
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "4,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.15,
+              "assetId": 8,
+              "offsetY": -0.1,
+              "variantId": 9
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "4,4": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          }
+        },
+        "style": {
+          "ruler": {
+            "gap": 24,
+            "fontSize": 24
+          },
+          "cellSize": 146,
+          "canvasFrame": {
+            "color": "#4A3F35",
+            "width": 4
+          },
+          "itemOutline": {
+            "color": "#6A5647",
+            "width": 1
+          },
+          "regionLabel": {
+            "color": "#7A6E60",
+            "fontSize": 28,
+            "fontFamily": "霞鹜文楷",
+            "hoverColor": "#F4A83A",
+            "strokeColor": "#F7F1E6",
+            "strokeWidth": 4,
+            "hoverFontSize": 32,
+            "hoverStrokeColor": "#F7F1E6",
+            "hoverStrokeWidth": 0
+          },
+          "canvasShadow": {
+            "color": "#4A3F35",
+            "offset": 36
+          },
+          "gridSeparator": {
+            "color": "#B8AD9C",
+            "width": 2
+          },
+          "regionOutline": {
+            "color": "#6B6257",
+            "width": 4
+          },
+          "mouseCursorBox": {
+            "color": "#FFFFFF",
+            "width": 2,
+            "shadowColor": "rgba(0,0,0,0.15)",
+            "blockedColor": "#9E3D3D"
+          },
+          "regionHighlight": {
+            "color": "#F4A83A",
+            "width": 4
+          },
+          "operationCursorBox": {
+            "color": "#3B82F6",
+            "width": 2,
+            "offset": 1
+          }
+        },
+        "regions": [
+          {
+            "id": "rg_7511cf8b",
+            "name": "蔷薇架",
+            "cells": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                0
+              ],
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                0,
+                2
+              ]
+            ],
+            "labelCell": [
+              0,
+              2
+            ]
+          },
+          {
+            "id": "rg_pavilion",
+            "name": "亭子",
+            "cells": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "labelCell": [
+              4,
+              3
+            ]
+          },
+          {
+            "id": "rg_d5298b44",
+            "name": "石径",
+            "cells": [
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                1
+              ]
+            ],
+            "labelCell": [
+              1,
+              3
+            ]
+          },
+          {
+            "id": "rg_4b6bfc78",
+            "name": "草坪",
+            "cells": [
+              [
+                0,
+                4
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                4
+              ]
+            ],
+            "labelCell": [
+              2,
+              4
+            ]
+          }
+        ],
+        "version": 8,
+        "gridSize": 5
+      },
+      "mapId": 45743,
+      "mapName": "因麒麟伏白首双星",
+      "versionNo": 14
+    },
+    "name": "因麒麟伏白首双星",
+    "clues": [
+      "「旁边」为同一区域内的上下左右相邻一格。"
+    ],
+    "ending": "金麒麟落在蔷薇架下，湘云拾起了它；翠缕和湘云同在蔷薇架下论阴阳。宝玉在石径的花冢旁，黛玉在亭子里，袭人草坪中收拾。这一日蔷薇架下的风很轻，谁也没把话说破。",
+    "version": 2,
+    "rosterCols": null,
+    "description": "蔷薇架下，翠缕正与湘云论着阴阳，草间忽见一点金光——是只金麒麟。湘云认得是宝玉之物，正要送去，石径那头已有人来了。五人各在何处，只能依各自的话去推。",
+    "linkageColors": [
+      {
+        "key": "gold",
+        "color": "#f1ab44",
+        "label": "金"
+      },
+      {
+        "key": "red",
+        "color": "#9e3d3d",
+        "label": "红"
+      }
+    ],
+    "characterSlots": [
+      {
+        "clue": "她在**金麒麟旁边**。",
+        "linkages": [
+          {
+            "id": 12,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#CEC4AD",
+        "characterId": 5,
+        "positionConditions": [
+          {
+            "x": 1,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "clue": "她在**第三行**。",
+        "linkages": [
+          {
+            "type": "cell",
+            "cells": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#E1E2CE",
+        "characterId": 6,
+        "positionConditions": [
+          {
+            "x": 0,
+            "y": 2
+          }
+        ]
+      },
+      {
+        "clue": "他在**花冢旁边**。",
+        "linkages": [
+          {
+            "id": 4,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#BB6B5D",
+        "characterId": 1,
+        "positionConditions": [
+          {
+            "x": 2,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "clue": "她在**亭子**。",
+        "linkages": [
+          {
+            "id": "rg_pavilion",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#A5A793",
+        "characterId": 7,
+        "positionConditions": [
+          {
+            "x": 3,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "clue": "她在**草坪**。",
+        "linkages": [
+          {
+            "id": "rg_4b6bfc78",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#3C5355",
+        "characterId": 3,
+        "positionConditions": [
+          {
+            "x": 4,
+            "y": 4
+          }
+        ]
+      }
+    ],
+    "mark": {
+      "path": "files/marks/theme.webp"
+    },
+    "toolIcons": {
+      "clear": {
+        "path": "files/icons/theme-clear.webp"
+      },
+      "undo": {
+        "path": "files/icons/theme-undo.webp"
+      },
+      "submit": {
+        "path": "files/icons/theme-submit.webp"
+      }
+    }
+  }
+}

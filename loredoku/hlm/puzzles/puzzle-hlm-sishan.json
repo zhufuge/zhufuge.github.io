@@ -1,0 +1,791 @@
+{
+  "key": "puzzle-hlm-sishan",
+  "summary": {
+    "id": 7304,
+    "puzzleId": 20191,
+    "themeCode": "hlm",
+    "puzzleName": "撕扇子作千金一笑",
+    "puzzleVersionNo": 19,
+    "name": "撕扇子作千金一笑",
+    "slug": "puzzle-hlm-sishan",
+    "coverUrl": "http://localhost:3000/api/files/games/7304/d51782b4-5e43-4a0d-9ff1-c7f30ebfb671.png",
+    "difficulty": 1,
+    "sortWeight": 1,
+    "gridSize": 4,
+    "participantCount": 4,
+    "createdAt": "2026-11-14T07:41:04.544Z"
+  },
+  "map": {
+    "cells": {
+      "0,0": {
+        "background": {
+          "assetId": 1,
+          "variantId": 1
+        }
+      },
+      "0,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.5,
+          "assetId": 3,
+          "offsetY": -0.2,
+          "variantId": 3
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.3,
+          "assetId": 4,
+          "offsetY": -0.05,
+          "variantId": 4
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 5,
+          "offsetY": -0.25,
+          "variantId": 5
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,0": {
+        "background": {
+          "assetId": 1,
+          "variantId": 6
+        }
+      },
+      "1,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 5,
+          "offsetY": -0.25,
+          "variantId": 5
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,2": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 7,
+          "variantId": 8
+        },
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "2,0": {
+        "background": {
+          "assetId": 1,
+          "variantId": 6
+        }
+      },
+      "2,1": {
+        "background": {
+          "assetId": 1,
+          "variantId": 6
+        }
+      },
+      "2,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.1,
+          "assetId": 8,
+          "offsetY": -0.1,
+          "variantId": 9
+        },
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "2,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.1,
+          "assetId": 9,
+          "variantId": 10
+        },
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "3,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.35,
+          "assetId": 10,
+          "variantId": 11
+        },
+        "background": {
+          "assetId": 1,
+          "variantId": 6
+        }
+      },
+      "3,1": {
+        "background": {
+          "assetId": 1,
+          "variantId": 6
+        }
+      },
+      "3,2": {
+        "background": {
+          "assetId": 6,
+          "variantId": 7
+        }
+      },
+      "3,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 5,
+          "offsetY": -0.25,
+          "variantId": 5
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      }
+    },
+    "style": {
+      "ruler": {
+        "gap": 24,
+        "fontSize": 24
+      },
+      "cellSize": 168,
+      "canvasFrame": {
+        "color": "#4A3F35",
+        "width": 4
+      },
+      "itemOutline": {
+        "color": "#6A5647",
+        "width": 1
+      },
+      "regionLabel": {
+        "color": "#7A6E60",
+        "fontSize": 28,
+        "fontFamily": "霞鹜文楷",
+        "hoverColor": "#F4A83A",
+        "strokeColor": "#F7F1E6",
+        "strokeWidth": 4,
+        "hoverFontSize": 32,
+        "hoverStrokeColor": "#F7F1E6",
+        "hoverStrokeWidth": 0
+      },
+      "canvasShadow": {
+        "color": "#4A3F35",
+        "offset": 36
+      },
+      "gridSeparator": {
+        "color": "#B8AD9C",
+        "width": 2
+      },
+      "regionOutline": {
+        "color": "#6B6257",
+        "width": 4
+      },
+      "mouseCursorBox": {
+        "color": "#FFFFFF",
+        "width": 2,
+        "shadowColor": "rgba(0,0,0,0.15)",
+        "blockedColor": "#9E3D3D"
+      },
+      "regionHighlight": {
+        "color": "#F4A83A",
+        "width": 4
+      },
+      "operationCursorBox": {
+        "color": "#3B82F6",
+        "width": 2,
+        "offset": 1
+      }
+    },
+    "regions": [
+      {
+        "id": "rg_veranda",
+        "name": "回廊",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        "labelCell": [
+          3,
+          1
+        ]
+      },
+      {
+        "id": "rg_frontyard",
+        "name": "前院",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        "labelCell": [
+          2,
+          3
+        ]
+      }
+    ],
+    "version": 8,
+    "gridSize": 4
+  },
+  "puzzle": {
+    "map": {
+      "data": {
+        "cells": {
+          "0,0": {
+            "background": {
+              "assetId": 1,
+              "variantId": 1
+            }
+          },
+          "0,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.5,
+              "assetId": 3,
+              "offsetY": -0.2,
+              "variantId": 3
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.3,
+              "assetId": 4,
+              "offsetY": -0.05,
+              "variantId": 4
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 5,
+              "offsetY": -0.25,
+              "variantId": 5
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,0": {
+            "background": {
+              "assetId": 1,
+              "variantId": 6
+            }
+          },
+          "1,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 5,
+              "offsetY": -0.25,
+              "variantId": 5
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,2": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 7,
+              "variantId": 8
+            },
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "2,0": {
+            "background": {
+              "assetId": 1,
+              "variantId": 6
+            }
+          },
+          "2,1": {
+            "background": {
+              "assetId": 1,
+              "variantId": 6
+            }
+          },
+          "2,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.1,
+              "assetId": 8,
+              "offsetY": -0.1,
+              "variantId": 9
+            },
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "2,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.1,
+              "assetId": 9,
+              "variantId": 10
+            },
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "3,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.35,
+              "assetId": 10,
+              "variantId": 11
+            },
+            "background": {
+              "assetId": 1,
+              "variantId": 6
+            }
+          },
+          "3,1": {
+            "background": {
+              "assetId": 1,
+              "variantId": 6
+            }
+          },
+          "3,2": {
+            "background": {
+              "assetId": 6,
+              "variantId": 7
+            }
+          },
+          "3,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 5,
+              "offsetY": -0.25,
+              "variantId": 5
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          }
+        },
+        "style": {
+          "ruler": {
+            "gap": 24,
+            "fontSize": 24
+          },
+          "cellSize": 168,
+          "canvasFrame": {
+            "color": "#4A3F35",
+            "width": 4
+          },
+          "itemOutline": {
+            "color": "#6A5647",
+            "width": 1
+          },
+          "regionLabel": {
+            "color": "#7A6E60",
+            "fontSize": 28,
+            "fontFamily": "霞鹜文楷",
+            "hoverColor": "#F4A83A",
+            "strokeColor": "#F7F1E6",
+            "strokeWidth": 4,
+            "hoverFontSize": 32,
+            "hoverStrokeColor": "#F7F1E6",
+            "hoverStrokeWidth": 0
+          },
+          "canvasShadow": {
+            "color": "#4A3F35",
+            "offset": 36
+          },
+          "gridSeparator": {
+            "color": "#B8AD9C",
+            "width": 2
+          },
+          "regionOutline": {
+            "color": "#6B6257",
+            "width": 4
+          },
+          "mouseCursorBox": {
+            "color": "#FFFFFF",
+            "width": 2,
+            "shadowColor": "rgba(0,0,0,0.15)",
+            "blockedColor": "#9E3D3D"
+          },
+          "regionHighlight": {
+            "color": "#F4A83A",
+            "width": 4
+          },
+          "operationCursorBox": {
+            "color": "#3B82F6",
+            "width": 2,
+            "offset": 1
+          }
+        },
+        "regions": [
+          {
+            "id": "rg_veranda",
+            "name": "回廊",
+            "cells": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                3,
+                0
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                2,
+                1
+              ]
+            ],
+            "labelCell": [
+              3,
+              1
+            ]
+          },
+          {
+            "id": "rg_frontyard",
+            "name": "前院",
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                0,
+                2
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "labelCell": [
+              2,
+              3
+            ]
+          }
+        ],
+        "version": 8,
+        "gridSize": 4
+      },
+      "mapId": 45742,
+      "mapName": "撕扇子作千金一笑",
+      "versionNo": 11
+    },
+    "name": "撕扇子作千金一笑",
+    "clues": [
+      "点击人物选中，再点击方格长按放置。",
+      "每行恰好一人，每列恰好一人。"
+    ],
+    "ending": "碎扇落在石径，晴雯就坐在旁边的石椅上；宝玉在旁边草地上，麝月停在院口石阶边，袭人隔着回廊始终没过来。人未散，扇未收——『千金难买一笑』。",
+    "version": 2,
+    "rosterCols": 2,
+    "description": "端午晴雯跌折扇骨，与宝玉拌了嘴。晚间宝玉笑着递扇：『要撕着玩，也使得。』麝月走来，手里的扇子也被夺去一并撕了。院门未开，四人都在院里：先寻着碎扇旁的那一个，再定其余三人的位置。",
+    "linkageColors": [
+      {
+        "key": "gold",
+        "color": "#f1ab44",
+        "label": "金"
+      },
+      {
+        "key": "red",
+        "color": "#9e3d3d",
+        "label": "红"
+      }
+    ],
+    "characterSlots": [
+      {
+        "clue": "他在**第二列**。",
+        "linkages": [
+          {
+            "type": "cell",
+            "cells": [
+              [
+                1,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ]
+            ],
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#9F4D3F",
+        "characterId": 1,
+        "positionConditions": [
+          {
+            "x": 1,
+            "y": 2
+          }
+        ]
+      },
+      {
+        "clue": "她在**扇子旁边**。",
+        "linkages": [
+          {
+            "id": 7,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#B5CCB6",
+        "characterId": 2,
+        "positionConditions": [
+          {
+            "x": 2,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "clue": "她在**第一行**。",
+        "linkages": [
+          {
+            "type": "cell",
+            "cells": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                3,
+                0
+              ]
+            ],
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#4B5F5F",
+        "characterId": 3,
+        "positionConditions": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "clue": "她在**回廊**。",
+        "linkages": [
+          {
+            "id": "rg_veranda",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#C6ACA9",
+        "characterId": 4,
+        "positionConditions": [
+          {
+            "x": 3,
+            "y": 1
+          }
+        ]
+      }
+    ],
+    "mark": {
+      "path": "files/marks/theme.webp"
+    },
+    "toolIcons": {
+      "clear": {
+        "path": "files/icons/theme-clear.webp"
+      },
+      "undo": {
+        "path": "files/icons/theme-undo.webp"
+      },
+      "submit": {
+        "path": "files/icons/theme-submit.webp"
+      }
+    }
+  }
+}
