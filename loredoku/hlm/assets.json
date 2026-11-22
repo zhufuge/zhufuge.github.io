@@ -54,6 +54,21 @@
           "bgColor": null,
           "createdAt": "2026-11-13T13:39:18.410Z",
           "updatedAt": "2026-11-14T06:52:29.037Z"
+        },
+        {
+          "id": 62,
+          "assetId": 1,
+          "name": "形态 5",
+          "sortOrder": 5,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/1-hlm_stone_paving-4.webp",
+          "imageUrl": "files/assets/1-hlm_stone_paving-4.webp",
+          "imageThumbUrl": "files/assets/1-hlm_stone_paving-4.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-19T09:22:15.362Z",
+          "updatedAt": "2026-11-20T14:16:47.670Z"
         }
       ],
       "createdAt": "2026-10-22T13:24:00.082Z",
@@ -97,7 +112,7 @@
       "isActive": true,
       "variants": [
         {
-          "id": 52,
+          "id": 65,
           "assetId": 3,
           "name": "默认",
           "sortOrder": 0,
@@ -336,7 +351,7 @@
       "isActive": true,
       "variants": [
         {
-          "id": 53,
+          "id": 66,
           "assetId": 11,
           "name": "默认",
           "sortOrder": 0,
@@ -463,7 +478,7 @@
       "isActive": true,
       "variants": [
         {
-          "id": 54,
+          "id": 67,
           "assetId": 15,
           "name": "顶视",
           "sortOrder": 0,
@@ -614,16 +629,31 @@
           "w": 1,
           "h": 1,
           "fitMode": "cover",
-          "imagePath": "files/assets/18-hlm_pond_ground.webp",
-          "imageUrl": "files/assets/18-hlm_pond_ground.webp",
-          "imageThumbUrl": "files/assets/18-hlm_pond_ground.webp",
+          "imagePath": "files/assets/18-hlm_pond_ground-1.webp",
+          "imageUrl": "files/assets/18-hlm_pond_ground-1.webp",
+          "imageThumbUrl": "files/assets/18-hlm_pond_ground-1.webp",
           "bgColor": null,
           "createdAt": "2026-11-11T13:40:56.180Z",
           "updatedAt": "2026-11-11T13:55:25.884Z"
+        },
+        {
+          "id": 59,
+          "assetId": 18,
+          "name": "形态 2",
+          "sortOrder": 1,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/18-hlm_pond_ground-2.webp",
+          "imageUrl": "files/assets/18-hlm_pond_ground-2.webp",
+          "imageThumbUrl": "files/assets/18-hlm_pond_ground-2.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-19T07:07:32.357Z",
+          "updatedAt": "2026-11-19T07:13:51.160Z"
         }
       ],
       "createdAt": "2026-11-11T13:40:56.180Z",
-      "updatedAt": "2026-11-11T13:40:56.180Z"
+      "updatedAt": "2026-11-19T07:07:31.615Z"
     },
     {
       "id": 19,
@@ -642,12 +672,27 @@
           "w": 1,
           "h": 1,
           "fitMode": "cover",
-          "imagePath": "files/assets/19-hlm_lotus_leaf.webp",
-          "imageUrl": "files/assets/19-hlm_lotus_leaf.webp",
-          "imageThumbUrl": "files/assets/19-hlm_lotus_leaf.webp",
+          "imagePath": "files/assets/19-hlm_lotus_leaf-1.webp",
+          "imageUrl": "files/assets/19-hlm_lotus_leaf-1.webp",
+          "imageThumbUrl": "files/assets/19-hlm_lotus_leaf-1.webp",
           "bgColor": null,
           "createdAt": "2026-11-12T11:32:14.593Z",
           "updatedAt": "2026-11-12T11:38:16.288Z"
+        },
+        {
+          "id": 60,
+          "assetId": 19,
+          "name": "形态 2",
+          "sortOrder": 1,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/19-hlm_lotus_leaf-2.webp",
+          "imageUrl": "files/assets/19-hlm_lotus_leaf-2.webp",
+          "imageThumbUrl": "files/assets/19-hlm_lotus_leaf-2.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-19T07:04:20.773Z",
+          "updatedAt": "2026-11-19T07:12:03.134Z"
         }
       ],
       "createdAt": "2026-11-12T11:32:14.593Z",
@@ -818,7 +863,7 @@
       "isActive": true,
       "variants": [
         {
-          "id": 55,
+          "id": 68,
           "assetId": 25,
           "name": "默认",
           "sortOrder": 0,
@@ -972,7 +1017,7 @@
           "imageThumbUrl": "files/assets/29-hlm_hairpin.webp",
           "bgColor": null,
           "createdAt": "2026-11-12T08:23:35.037Z",
-          "updatedAt": "2026-11-13T13:42:47.198Z"
+          "updatedAt": "2026-11-18T14:40:29.451Z"
         }
       ],
       "createdAt": "2026-11-12T08:23:35.037Z",
@@ -995,12 +1040,27 @@
           "w": 1,
           "h": 1,
           "fitMode": "cover",
-          "imagePath": "files/assets/30-hlm_plum.webp",
-          "imageUrl": "files/assets/30-hlm_plum.webp",
-          "imageThumbUrl": "files/assets/30-hlm_plum.webp",
+          "imagePath": "files/assets/30-hlm_plum-1.webp",
+          "imageUrl": "files/assets/30-hlm_plum-1.webp",
+          "imageThumbUrl": "files/assets/30-hlm_plum-1.webp",
           "bgColor": null,
           "createdAt": "2026-10-27T13:40:29.685Z",
-          "updatedAt": "2026-11-14T05:51:22.050Z"
+          "updatedAt": "2026-11-17T16:55:01.523Z"
+        },
+        {
+          "id": 53,
+          "assetId": 30,
+          "name": "形态 2",
+          "sortOrder": 1,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/30-hlm_plum-2.webp",
+          "imageUrl": "files/assets/30-hlm_plum-2.webp",
+          "imageThumbUrl": "files/assets/30-hlm_plum-2.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-18T13:30:13.111Z",
+          "updatedAt": "2026-11-18T13:30:24.721Z"
         }
       ],
       "createdAt": "2026-10-27T13:40:29.685Z",
@@ -1072,7 +1132,7 @@
       "isActive": true,
       "variants": [
         {
-          "id": 56,
+          "id": 69,
           "assetId": 33,
           "name": "默认",
           "sortOrder": 0,
@@ -1269,7 +1329,7 @@
           "imageThumbUrl": "files/assets/38-hlm_ru_vase.webp",
           "bgColor": null,
           "createdAt": "2026-11-15T16:19:37.021Z",
-          "updatedAt": "2026-11-16T13:03:16.709Z"
+          "updatedAt": "2026-11-18T12:42:11.595Z"
         }
       ],
       "createdAt": "2026-11-15T16:19:37.021Z",
@@ -1325,7 +1385,7 @@
           "imageThumbUrl": "files/assets/40-hlm_censer.webp",
           "bgColor": null,
           "createdAt": "2026-10-27T13:40:29.674Z",
-          "updatedAt": "2026-11-16T12:57:50.729Z"
+          "updatedAt": "2026-11-18T12:28:19.184Z"
         }
       ],
       "createdAt": "2026-10-27T13:40:29.674Z",
@@ -1353,7 +1413,7 @@
           "imageThumbUrl": "files/assets/41-hlm_kite.webp",
           "bgColor": null,
           "createdAt": "2026-10-27T13:40:29.677Z",
-          "updatedAt": "2026-11-15T17:26:33.818Z"
+          "updatedAt": "2026-11-19T03:53:13.482Z"
         }
       ],
       "createdAt": "2026-10-27T13:40:29.677Z",
@@ -1386,6 +1446,273 @@
       ],
       "createdAt": "2026-11-15T16:19:37.016Z",
       "updatedAt": "2026-11-15T16:19:37.016Z"
+    },
+    {
+      "id": 43,
+      "code": "hlm_altar",
+      "name": "供桌",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 52,
+          "assetId": 43,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/43-hlm_altar.webp",
+          "imageUrl": "files/assets/43-hlm_altar.webp",
+          "imageThumbUrl": "files/assets/43-hlm_altar.webp",
+          "bgColor": null,
+          "createdAt": "2026-10-27T13:40:29.682Z",
+          "updatedAt": "2026-11-18T13:05:02.828Z"
+        }
+      ],
+      "createdAt": "2026-10-27T13:40:29.682Z",
+      "updatedAt": "2026-10-27T13:40:29.682Z"
+    },
+    {
+      "id": 44,
+      "code": "hlm_cheng_cup",
+      "name": "成窑茶杯",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 54,
+          "assetId": 44,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/44-hlm_cheng_cup.webp",
+          "imageUrl": "files/assets/44-hlm_cheng_cup.webp",
+          "imageThumbUrl": "files/assets/44-hlm_cheng_cup.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-16T16:06:28.219Z",
+          "updatedAt": "2026-11-18T12:15:39.218Z"
+        }
+      ],
+      "createdAt": "2026-11-16T16:06:28.219Z",
+      "updatedAt": "2026-11-18T12:47:19.755Z"
+    },
+    {
+      "id": 45,
+      "code": "hlm_threshold",
+      "name": "门槛",
+      "type": "item",
+      "blocking": false,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 55,
+          "assetId": 45,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/45-hlm_threshold.webp",
+          "imageUrl": "files/assets/45-hlm_threshold.webp",
+          "imageThumbUrl": "files/assets/45-hlm_threshold.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-16T16:10:50.709Z",
+          "updatedAt": "2026-11-18T11:50:25.397Z"
+        }
+      ],
+      "createdAt": "2026-11-16T16:10:50.709Z",
+      "updatedAt": "2026-11-16T16:10:50.709Z"
+    },
+    {
+      "id": 46,
+      "code": "hlm_table",
+      "name": "桌子",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 56,
+          "assetId": 46,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/46-hlm_table.webp",
+          "imageUrl": "files/assets/46-hlm_table.webp",
+          "imageThumbUrl": "files/assets/46-hlm_table.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-18T13:16:27.811Z",
+          "updatedAt": "2026-11-18T13:25:54.792Z"
+        }
+      ],
+      "createdAt": "2026-11-18T13:16:27.811Z",
+      "updatedAt": "2026-11-18T13:16:27.811Z"
+    },
+    {
+      "id": 47,
+      "code": "hlm_urn",
+      "name": "鬼脸青花瓮",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 57,
+          "assetId": 47,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/47-hlm_urn.webp",
+          "imageUrl": "files/assets/47-hlm_urn.webp",
+          "imageThumbUrl": "files/assets/47-hlm_urn.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-16T16:06:28.207Z",
+          "updatedAt": "2026-11-16T16:37:54.866Z"
+        }
+      ],
+      "createdAt": "2026-11-16T16:06:28.207Z",
+      "updatedAt": "2026-11-16T16:06:28.207Z"
+    },
+    {
+      "id": 48,
+      "code": "hlm_mount_ground",
+      "name": "山径石地",
+      "type": "background",
+      "blocking": false,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 58,
+          "assetId": 48,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/48-hlm_mount_ground.webp",
+          "imageUrl": "files/assets/48-hlm_mount_ground.webp",
+          "imageThumbUrl": "files/assets/48-hlm_mount_ground.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-11T13:40:56.236Z",
+          "updatedAt": "2026-11-19T12:38:05.781Z"
+        }
+      ],
+      "createdAt": "2026-11-11T13:40:56.236Z",
+      "updatedAt": "2026-11-11T13:40:56.236Z"
+    },
+    {
+      "id": 49,
+      "code": "hlm_willow",
+      "name": "柳树",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 61,
+          "assetId": 49,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/49-hlm_willow.webp",
+          "imageUrl": "files/assets/49-hlm_willow.webp",
+          "imageThumbUrl": "files/assets/49-hlm_willow.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-11T13:40:56.186Z",
+          "updatedAt": "2026-11-19T13:49:49.542Z"
+        }
+      ],
+      "createdAt": "2026-11-11T13:40:56.186Z",
+      "updatedAt": "2026-11-11T13:40:56.186Z"
+    },
+    {
+      "id": 50,
+      "code": "hlm_butterfly",
+      "name": "蝴蝶",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 63,
+          "assetId": 50,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/50-hlm_butterfly.webp",
+          "imageUrl": "files/assets/50-hlm_butterfly.webp",
+          "imageThumbUrl": "files/assets/50-hlm_butterfly.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-11T13:40:56.193Z",
+          "updatedAt": "2026-11-20T14:04:49.084Z"
+        }
+      ],
+      "createdAt": "2026-11-11T13:40:56.193Z",
+      "updatedAt": "2026-11-20T14:06:12.602Z"
+    },
+    {
+      "id": 51,
+      "code": "hlm_apricot",
+      "name": "杏树",
+      "type": "item",
+      "blocking": true,
+      "decoration": false,
+      "isActive": true,
+      "variants": [
+        {
+          "id": 70,
+          "assetId": 51,
+          "name": "默认",
+          "sortOrder": 0,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/51-hlm_apricot-1.webp",
+          "imageUrl": "files/assets/51-hlm_apricot-1.webp",
+          "imageThumbUrl": "files/assets/51-hlm_apricot-1.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-11T13:40:56.230Z",
+          "updatedAt": "2026-11-11T13:55:25.875Z"
+        },
+        {
+          "id": 64,
+          "assetId": 51,
+          "name": "形态 2",
+          "sortOrder": 1,
+          "w": 1,
+          "h": 1,
+          "fitMode": "cover",
+          "imagePath": "files/assets/51-hlm_apricot-2.webp",
+          "imageUrl": "files/assets/51-hlm_apricot-2.webp",
+          "imageThumbUrl": "files/assets/51-hlm_apricot-2.webp",
+          "bgColor": null,
+          "createdAt": "2026-11-19T13:53:07.647Z",
+          "updatedAt": "2026-11-19T14:05:51.033Z"
+        }
+      ],
+      "createdAt": "2026-11-11T13:40:56.230Z",
+      "updatedAt": "2026-11-11T13:40:56.230Z"
     }
   ]
 }

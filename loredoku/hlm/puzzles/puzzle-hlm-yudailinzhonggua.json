@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-yudailinzhonggua",
   "summary": {
-    "id": 7629,
-    "puzzleId": 21088,
+    "id": 8947,
+    "puzzleId": 24532,
     "themeCode": "hlm",
     "puzzleName": "玉带林中挂",
-    "puzzleVersionNo": 16,
+    "puzzleVersionNo": 17,
     "name": "玉带林中挂",
     "slug": "puzzle-hlm-yudailinzhonggua",
-    "coverUrl": "http://localhost:3000/api/files/games/7629/60b1a72e-ce5e-498f-a6df-26ee37ee5fc3.png",
+    "coverUrl": "http://localhost:3000/api/files/games/8947/b926ce3d-f28b-4476-bf42-6f34e1fb665c.png",
     "difficulty": 1,
     "sortWeight": 3,
     "gridSize": 5,
     "participantCount": 5,
-    "createdAt": "2026-11-15T12:14:01.794Z"
+    "createdAt": "2026-11-20T07:33:49.661Z"
   },
   "map": {
     "cells": {
@@ -917,7 +917,7 @@
         ]
       },
       {
-        "clue": "她在**竹丛的南方（下方）一格**。",
+        "clue": "她在**竹丛的下方一格**。",
         "linkages": [
           {
             "id": 23,

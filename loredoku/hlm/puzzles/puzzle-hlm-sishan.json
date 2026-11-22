@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-sishan",
   "summary": {
-    "id": 7304,
-    "puzzleId": 20191,
+    "id": 9023,
+    "puzzleId": 24704,
     "themeCode": "hlm",
     "puzzleName": "撕扇子作千金一笑",
-    "puzzleVersionNo": 19,
+    "puzzleVersionNo": 21,
     "name": "撕扇子作千金一笑",
     "slug": "puzzle-hlm-sishan",
-    "coverUrl": "http://localhost:3000/api/files/games/7304/d51782b4-5e43-4a0d-9ff1-c7f30ebfb671.png",
+    "coverUrl": "http://localhost:3000/api/files/games/9023/a041ad73-385a-4c63-a059-c4ba2926926b.png",
     "difficulty": 1,
     "sortWeight": 1,
     "gridSize": 4,
     "participantCount": 4,
-    "createdAt": "2026-11-14T07:41:04.544Z"
+    "createdAt": "2026-11-20T16:20:53.015Z"
   },
   "map": {
     "cells": {
@@ -209,7 +209,7 @@
       },
       "canvasShadow": {
         "color": "#4A3F35",
-        "offset": 36
+        "offset": 25
       },
       "gridSeparator": {
         "color": "#B8AD9C",
@@ -520,7 +520,7 @@
           },
           "canvasShadow": {
             "color": "#4A3F35",
-            "offset": 36
+            "offset": 25
           },
           "gridSeparator": {
             "color": "#B8AD9C",
@@ -635,15 +635,12 @@
         "version": 8,
         "gridSize": 4
       },
-      "mapId": 45742,
+      "mapId": 51980,
       "mapName": "撕扇子作千金一笑",
-      "versionNo": 11
+      "versionNo": 12
     },
     "name": "撕扇子作千金一笑",
-    "clues": [
-      "点击人物选中，再点击方格长按放置。",
-      "每行恰好一人，每列恰好一人。"
-    ],
+    "clues": [],
     "ending": "碎扇落在石径，晴雯就坐在旁边的石椅上；宝玉在旁边草地上，麝月停在院口石阶边，袭人隔着回廊始终没过来。人未散，扇未收——『千金难买一笑』。",
     "version": 2,
     "rosterCols": 2,

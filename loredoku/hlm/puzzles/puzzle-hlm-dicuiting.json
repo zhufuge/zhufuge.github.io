@@ -1,0 +1,1676 @@
+{
+  "key": "puzzle-hlm-dicuiting",
+  "summary": {
+    "id": 9019,
+    "puzzleId": 24701,
+    "themeCode": "hlm",
+    "puzzleName": "滴翠亭",
+    "puzzleVersionNo": 18,
+    "name": "滴翠亭",
+    "slug": "puzzle-hlm-dicuiting",
+    "coverUrl": "http://localhost:3000/api/files/games/9019/1ac13dc1-61f9-43b4-802e-8f26907893a7.png",
+    "difficulty": 2,
+    "sortWeight": 8,
+    "gridSize": 7,
+    "participantCount": 7,
+    "createdAt": "2026-11-20T15:34:51.146Z"
+  },
+  "map": {
+    "cells": {
+      "0,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.5,
+          "assetId": 3,
+          "offsetY": -0.15,
+          "variantId": 3
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "0,1": {
+        "background": {
+          "assetId": 48,
+          "variantId": 58
+        }
+      },
+      "0,2": {
+        "background": {
+          "assetId": 48,
+          "variantId": 58
+        }
+      },
+      "0,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.8,
+          "assetId": 19,
+          "variantId": 60
+        },
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "0,4": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "0,5": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "0,6": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "1,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.25,
+          "assetId": 11,
+          "variantId": 12
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,1": {
+        "background": {
+          "assetId": 48,
+          "variantId": 58
+        }
+      },
+      "1,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.45,
+          "assetId": 49,
+          "offsetY": -0.2,
+          "variantId": 61
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "1,3": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "1,4": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "1,5": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "1,6": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.75,
+          "assetId": 15,
+          "variantId": 16
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "2,0": {
+        "background": {
+          "assetId": 48,
+          "variantId": 58
+        }
+      },
+      "2,1": {
+        "background": {
+          "assetId": 48,
+          "variantId": 58
+        }
+      },
+      "2,2": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "2,3": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "2,4": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "2,5": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 8,
+          "variantId": 9
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "2,6": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "3,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "3,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.5,
+          "assetId": 3,
+          "offsetY": -0.15,
+          "variantId": 3
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "3,2": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "3,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 50,
+          "variantId": 63
+        },
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "3,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.75,
+          "assetId": 15,
+          "variantId": 16
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "3,5": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.75,
+          "assetId": 15,
+          "variantId": 16
+        },
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "3,6": {
+        "background": {
+          "assetId": 14,
+          "variantId": 15
+        }
+      },
+      "4,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "4,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.25,
+          "assetId": 11,
+          "variantId": 12
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "4,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.8,
+          "assetId": 19,
+          "variantId": 60
+        },
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "4,3": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "4,4": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "4,5": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "4,6": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "5,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 51,
+          "offsetY": -0.15,
+          "variantId": 64
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "5,1": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "5,2": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "5,3": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "5,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.8,
+          "assetId": 19,
+          "variantId": 60
+        },
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "5,5": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "5,6": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      },
+      "6,0": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "6,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.4,
+          "assetId": 51,
+          "offsetY": -0.15,
+          "variantId": 64
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "6,2": {
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "6,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.25,
+          "assetId": 11,
+          "variantId": 12
+        },
+        "background": {
+          "assetId": 2,
+          "variantId": 2
+        }
+      },
+      "6,4": {
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "6,5": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.8,
+          "assetId": 19,
+          "variantId": 60
+        },
+        "background": {
+          "assetId": 18,
+          "variantId": 59
+        }
+      },
+      "6,6": {
+        "background": {
+          "assetId": 1,
+          "variantId": 62
+        }
+      }
+    },
+    "style": {
+      "ruler": {
+        "gap": 24,
+        "fontSize": 24
+      },
+      "cellSize": 100,
+      "canvasFrame": {
+        "color": "#4A3F35",
+        "width": 5
+      },
+      "itemOutline": {
+        "color": "#6A5647",
+        "width": 2
+      },
+      "regionLabel": {
+        "color": "#7A6E60",
+        "fontSize": 32,
+        "fontFamily": "霞鹜文楷",
+        "hoverColor": "#F4A83A",
+        "strokeColor": "#F7F1E6",
+        "strokeWidth": 4,
+        "hoverFontSize": 36,
+        "hoverStrokeColor": "#F7F1E6",
+        "hoverStrokeWidth": 0
+      },
+      "canvasShadow": {
+        "color": "#4A3F35",
+        "offset": 25
+      },
+      "gridSeparator": {
+        "color": "#B8AD9C",
+        "width": 3
+      },
+      "regionOutline": {
+        "color": "#6B6257",
+        "width": 5
+      },
+      "mouseCursorBox": {
+        "color": "#FFFFFF",
+        "width": 3,
+        "shadowColor": "rgba(0,0,0,0.15)",
+        "blockedColor": "#9E3D3D"
+      },
+      "regionHighlight": {
+        "color": "#F4A83A",
+        "width": 5
+      },
+      "operationCursorBox": {
+        "color": "#3B82F6",
+        "width": 3,
+        "offset": 1
+      }
+    },
+    "regions": [
+      {
+        "id": "rg_pavilion",
+        "name": "滴翠亭",
+        "cells": [
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ],
+        "labelCell": [
+          2,
+          6
+        ]
+      },
+      {
+        "id": "rg_pond",
+        "name": "池塘",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "labelCell": [
+          0,
+          6
+        ]
+      },
+      {
+        "id": "rg_veranda",
+        "name": "游廊曲桥",
+        "cells": [
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            4
+          ]
+        ],
+        "labelCell": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "rg_grass",
+        "name": "草地",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            3
+          ]
+        ],
+        "style": {
+          "label": {
+            "offset": {
+              "x": -100,
+              "y": -100
+            }
+          }
+        },
+        "labelCell": [
+          6,
+          3
+        ]
+      },
+      {
+        "id": "rg_slope",
+        "name": "山坡",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "labelCell": [
+          1,
+          2
+        ]
+      }
+    ],
+    "version": 8,
+    "gridSize": 7
+  },
+  "puzzle": {
+    "map": {
+      "data": {
+        "cells": {
+          "0,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.5,
+              "assetId": 3,
+              "offsetY": -0.15,
+              "variantId": 3
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "0,1": {
+            "background": {
+              "assetId": 48,
+              "variantId": 58
+            }
+          },
+          "0,2": {
+            "background": {
+              "assetId": 48,
+              "variantId": 58
+            }
+          },
+          "0,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.8,
+              "assetId": 19,
+              "variantId": 60
+            },
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "0,4": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "0,5": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "0,6": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "1,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.25,
+              "assetId": 11,
+              "variantId": 12
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,1": {
+            "background": {
+              "assetId": 48,
+              "variantId": 58
+            }
+          },
+          "1,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.45,
+              "assetId": 49,
+              "offsetY": -0.2,
+              "variantId": 61
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "1,3": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "1,4": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "1,5": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "1,6": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.75,
+              "assetId": 15,
+              "variantId": 16
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "2,0": {
+            "background": {
+              "assetId": 48,
+              "variantId": 58
+            }
+          },
+          "2,1": {
+            "background": {
+              "assetId": 48,
+              "variantId": 58
+            }
+          },
+          "2,2": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "2,3": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "2,4": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "2,5": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 8,
+              "variantId": 9
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "2,6": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "3,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "3,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.5,
+              "assetId": 3,
+              "offsetY": -0.15,
+              "variantId": 3
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "3,2": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "3,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 50,
+              "variantId": 63
+            },
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "3,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.75,
+              "assetId": 15,
+              "variantId": 16
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "3,5": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.75,
+              "assetId": 15,
+              "variantId": 16
+            },
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "3,6": {
+            "background": {
+              "assetId": 14,
+              "variantId": 15
+            }
+          },
+          "4,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "4,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.25,
+              "assetId": 11,
+              "variantId": 12
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "4,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.8,
+              "assetId": 19,
+              "variantId": 60
+            },
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "4,3": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "4,4": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "4,5": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "4,6": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "5,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 51,
+              "offsetY": -0.15,
+              "variantId": 64
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "5,1": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "5,2": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "5,3": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "5,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.8,
+              "assetId": 19,
+              "variantId": 60
+            },
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "5,5": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "5,6": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          },
+          "6,0": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "6,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.4,
+              "assetId": 51,
+              "offsetY": -0.15,
+              "variantId": 64
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "6,2": {
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "6,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.25,
+              "assetId": 11,
+              "variantId": 12
+            },
+            "background": {
+              "assetId": 2,
+              "variantId": 2
+            }
+          },
+          "6,4": {
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "6,5": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.8,
+              "assetId": 19,
+              "variantId": 60
+            },
+            "background": {
+              "assetId": 18,
+              "variantId": 59
+            }
+          },
+          "6,6": {
+            "background": {
+              "assetId": 1,
+              "variantId": 62
+            }
+          }
+        },
+        "style": {
+          "ruler": {
+            "gap": 24,
+            "fontSize": 24
+          },
+          "cellSize": 100,
+          "canvasFrame": {
+            "color": "#4A3F35",
+            "width": 5
+          },
+          "itemOutline": {
+            "color": "#6A5647",
+            "width": 2
+          },
+          "regionLabel": {
+            "color": "#7A6E60",
+            "fontSize": 32,
+            "fontFamily": "霞鹜文楷",
+            "hoverColor": "#F4A83A",
+            "strokeColor": "#F7F1E6",
+            "strokeWidth": 4,
+            "hoverFontSize": 36,
+            "hoverStrokeColor": "#F7F1E6",
+            "hoverStrokeWidth": 0
+          },
+          "canvasShadow": {
+            "color": "#4A3F35",
+            "offset": 25
+          },
+          "gridSeparator": {
+            "color": "#B8AD9C",
+            "width": 3
+          },
+          "regionOutline": {
+            "color": "#6B6257",
+            "width": 5
+          },
+          "mouseCursorBox": {
+            "color": "#FFFFFF",
+            "width": 3,
+            "shadowColor": "rgba(0,0,0,0.15)",
+            "blockedColor": "#9E3D3D"
+          },
+          "regionHighlight": {
+            "color": "#F4A83A",
+            "width": 5
+          },
+          "operationCursorBox": {
+            "color": "#3B82F6",
+            "width": 3,
+            "offset": 1
+          }
+        },
+        "regions": [
+          {
+            "id": "rg_pavilion",
+            "name": "滴翠亭",
+            "cells": [
+              [
+                1,
+                6
+              ],
+              [
+                1,
+                5
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                3,
+                5
+              ],
+              [
+                2,
+                5
+              ],
+              [
+                2,
+                6
+              ],
+              [
+                3,
+                6
+              ]
+            ],
+            "labelCell": [
+              2,
+              6
+            ]
+          },
+          {
+            "id": "rg_pond",
+            "name": "池塘",
+            "cells": [
+              [
+                0,
+                6
+              ],
+              [
+                0,
+                5
+              ],
+              [
+                0,
+                4
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ]
+            ],
+            "labelCell": [
+              0,
+              6
+            ]
+          },
+          {
+            "id": "rg_veranda",
+            "name": "游廊曲桥",
+            "cells": [
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                4,
+                4
+              ],
+              [
+                4,
+                5
+              ],
+              [
+                4,
+                6
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                4
+              ]
+            ],
+            "labelCell": [
+              5,
+              6
+            ]
+          },
+          {
+            "id": "rg_grass",
+            "name": "草地",
+            "cells": [
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                0
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                5,
+                0
+              ],
+              [
+                6,
+                0
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                3
+              ]
+            ],
+            "style": {
+              "label": {
+                "offset": {
+                  "x": -100,
+                  "y": -100
+                }
+              }
+            },
+            "labelCell": [
+              6,
+              3
+            ]
+          },
+          {
+            "id": "rg_slope",
+            "name": "山坡",
+            "cells": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                0,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ]
+            ],
+            "labelCell": [
+              1,
+              2
+            ]
+          }
+        ],
+        "version": 8,
+        "gridSize": 7
+      },
+      "mapId": 53332,
+      "mapName": "滴翠亭",
+      "versionNo": 13
+    },
+    "name": "滴翠亭",
+    "clues": [],
+    "ending": "玉色蝴蝶一双双过了河，她一只也没扑着。隔着糊纸听完那半截话，她笑着唤了一声「颦儿」。谁也没走到谁跟前——纸隔得住人，隔不住话。",
+    "version": 2,
+    "rosterCols": 3,
+    "description": "芒种这日，宝钗往潇湘馆去寻黛玉，见宝玉先进了院子，便折回来。一双玉色蝴蝶引她一路下坡，直追到池心的滴翠亭外。亭子四面俱是游廊，槅子糊着纸，里头嘁嘁喳喳有人说话。园里的人各在各处，都还在这一片池岸上——隔着水，也隔着纸。",
+    "linkageColors": [
+      {
+        "key": "gold",
+        "color": "#F1AB44",
+        "label": "金"
+      },
+      {
+        "key": "red",
+        "color": "#9E3D3D",
+        "label": "红"
+      }
+    ],
+    "characterSlots": [
+      {
+        "clue": "她在**蝴蝶旁边**。",
+        "linkages": [
+          {
+            "id": 50,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#B08A9A",
+        "characterId": 8,
+        "positionConditions": [
+          {
+            "x": 2,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "clue": "她在**滴翠亭**，且在**坠儿的上方**。",
+        "linkages": [
+          {
+            "id": "rg_pavilion",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          },
+          {
+            "id": 28,
+            "type": "character",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#A85A4A",
+        "characterId": 27,
+        "positionConditions": [
+          {
+            "x": 1,
+            "y": 4
+          }
+        ]
+      },
+      {
+        "clue": "她是**唯一**坐在**凳子**上的人。",
+        "linkages": [
+          {
+            "id": 15,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#9A8A6E",
+        "characterId": 28,
+        "positionConditions": [
+          {
+            "x": 3,
+            "y": 5
+          }
+        ]
+      },
+      {
+        "clue": "她在**山坡**。",
+        "linkages": [
+          {
+            "id": "rg_slope",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#6B353D",
+        "characterId": 13,
+        "positionConditions": [
+          {
+            "x": 0,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "clue": "他在**荷叶旁边**。",
+        "linkages": [
+          {
+            "id": 19,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#6B7B8C",
+        "characterId": 29,
+        "positionConditions": [
+          {
+            "x": 6,
+            "y": 6
+          }
+        ]
+      },
+      {
+        "clue": "他在**草地**，且在**晴雯的上方**。",
+        "linkages": [
+          {
+            "id": 2,
+            "type": "character",
+            "color": "gold",
+            "effect": "highlight"
+          },
+          {
+            "id": "rg_grass",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#A83A3A",
+        "characterId": 1,
+        "positionConditions": [
+          {
+            "x": 4,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "clue": "她在**草地**，但**不在蔷薇丛旁边**。",
+        "linkages": [
+          {
+            "id": "rg_grass",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          },
+          {
+            "id": 11,
+            "type": "asset",
+            "color": "red",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#7A9A8E",
+        "characterId": 2,
+        "positionConditions": [
+          {
+            "x": 5,
+            "y": 2
+          }
+        ]
+      }
+    ],
+    "mark": {
+      "path": "files/marks/theme.webp"
+    },
+    "toolIcons": {
+      "clear": {
+        "path": "files/icons/theme-clear.webp"
+      },
+      "undo": {
+        "path": "files/icons/theme-undo.webp"
+      },
+      "submit": {
+        "path": "files/icons/theme-submit.webp"
+      }
+    }
+  }
+}

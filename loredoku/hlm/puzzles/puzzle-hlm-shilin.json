@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-shilin",
   "summary": {
-    "id": 7305,
-    "puzzleId": 20192,
+    "id": 9451,
+    "puzzleId": 25828,
     "themeCode": "hlm",
     "puzzleName": "因麒麟伏白首双星",
-    "puzzleVersionNo": 16,
+    "puzzleVersionNo": 18,
     "name": "因麒麟伏白首双星",
     "slug": "puzzle-hlm-shilin",
-    "coverUrl": "http://localhost:3000/api/files/games/7305/f6ad9e24-11d5-4eb0-9396-fd98675f4542.png",
+    "coverUrl": "http://localhost:3000/api/files/games/9451/2943a13d-b6f9-4973-bb2f-4ec346c8e36a.png",
     "difficulty": 1,
     "sortWeight": 2,
     "gridSize": 5,
     "participantCount": 5,
-    "createdAt": "2026-11-14T07:43:24.410Z"
+    "createdAt": "2026-11-22T07:19:19.455Z"
   },
   "map": {
     "cells": {
@@ -270,7 +270,7 @@
       },
       "canvasShadow": {
         "color": "#4A3F35",
-        "offset": 36
+        "offset": 25
       },
       "gridSeparator": {
         "color": "#B8AD9C",
@@ -698,7 +698,7 @@
           },
           "canvasShadow": {
             "color": "#4A3F35",
-            "offset": 36
+            "offset": 25
           },
           "gridSeparator": {
             "color": "#B8AD9C",
@@ -869,14 +869,12 @@
         "version": 8,
         "gridSize": 5
       },
-      "mapId": 45743,
+      "mapId": 51983,
       "mapName": "因麒麟伏白首双星",
-      "versionNo": 14
+      "versionNo": 15
     },
     "name": "因麒麟伏白首双星",
-    "clues": [
-      "「旁边」为同一区域内的上下左右相邻一格。"
-    ],
+    "clues": [],
     "ending": "金麒麟落在蔷薇架下，湘云拾起了它；翠缕和湘云同在蔷薇架下论阴阳。宝玉在石径的花冢旁，黛玉在亭子里，袭人草坪中收拾。这一日蔷薇架下的风很轻，谁也没把话说破。",
     "version": 2,
     "rosterCols": null,

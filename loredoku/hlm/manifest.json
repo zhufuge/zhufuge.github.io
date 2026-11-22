@@ -1,7 +1,7 @@
 {
   "format": "loredoku-theme",
   "formatVersion": 1,
-  "exportedAt": "2026-11-17T07:24:20.715Z",
+  "exportedAt": "2026-11-22T10:06:46.642Z",
   "theme": {
     "code": "hlm",
     "name": "红楼梦",
@@ -36,6 +36,15 @@
     "checkStyle": {
       "passColor": "#B8860B",
       "failColor": "#5A1F1B"
+    },
+    "verdict": {
+      "icon": {
+        "path": "files/verdict/verdict.webp"
+      }
+    },
+    "gameList": {
+      "passed": "已解 {n} 题",
+      "playable": "{n} 题可解"
     }
   },
   "games": [
@@ -81,7 +90,7 @@
       "name": "一从二令三人木",
       "puzzleName": "一从二令三人木",
       "gridSize": 5,
-      "difficulty": 3,
+      "difficulty": 2,
       "cover": "files/covers/5.webp"
     },
     {
@@ -91,7 +100,25 @@
       "puzzleName": "蕉下客",
       "gridSize": 6,
       "difficulty": 2,
-      "cover": null
+      "cover": "files/covers/6.webp"
+    },
+    {
+      "key": "puzzle-hlm-kanwairen",
+      "file": "puzzles/puzzle-hlm-kanwairen.json",
+      "name": "槛外人",
+      "puzzleName": "槛外人",
+      "gridSize": 6,
+      "difficulty": 2,
+      "cover": "files/covers/7.webp"
+    },
+    {
+      "key": "puzzle-hlm-dicuiting",
+      "file": "puzzles/puzzle-hlm-dicuiting.json",
+      "name": "滴翠亭",
+      "puzzleName": "滴翠亭",
+      "gridSize": 7,
+      "difficulty": 2,
+      "cover": "files/covers/8.webp"
     }
   ],
   "assets": "assets.json",
@@ -106,47 +133,57 @@
     {
       "path": "theme.json",
       "bytes": 181,
-      "sha256": "fae108ed6c8f7d69c3153e79230b505b263b57926328b703eaf3498b7ee0ba62"
+      "sha256": "2f411b0681a4b97203493af08fc3db86f394ca269bc9ea74455160279869436c"
     },
     {
       "path": "assets.json",
-      "bytes": 40765,
-      "sha256": "df520427d024f399d5613a384fa47e4b9cbc1683fe3e33045cba9b3ca8b55b81"
+      "bytes": 50505,
+      "sha256": "a3575f78f47a63e71403ac0369bee4c3dc862f9a5b5c781f0cee4cbdcb3577cc"
     },
     {
       "path": "characters.json",
-      "bytes": 11966,
-      "sha256": "4f601773b6f2d873178b46e0728c774e242407d2701222c99fc41cf8b00d8da4"
+      "bytes": 15165,
+      "sha256": "127db58112f7304144e56c4f80e3a6abdb30740851213f604809913777c832ba"
     },
     {
       "path": "puzzles/puzzle-hlm-sishan.json",
-      "bytes": 16439,
-      "sha256": "7afc867afb3e773fd9bdca05c2cda85e3a30b2a6fb5208ad6b160b65c0d60c9d"
+      "bytes": 16322,
+      "sha256": "9c82cca37340082db32e985d665c39c80939572ff0bc6af887b2df1b88e3b4f2"
     },
     {
       "path": "puzzles/puzzle-hlm-shilin.json",
-      "bytes": 20910,
-      "sha256": "e6756a166fb159486a3e562a59520a47c02a0d445de4534f7c0e339122d94007"
+      "bytes": 20836,
+      "sha256": "ae404842e962b652d29405286baed96e06ae02b118e577a486bf7a288930ad52"
     },
     {
       "path": "puzzles/puzzle-hlm-yudailinzhonggua.json",
-      "bytes": 20741,
-      "sha256": "5b11ae965246c1e272df0d88de4a5cacccf8f4b3a627b5cba6ac3a3cb7255064"
+      "bytes": 20729,
+      "sha256": "c3ce1463876da225c48a3fb0a9a4f441f89d7bc1fc706cb06b8d32b6cb8dcfd0"
     },
     {
       "path": "puzzles/puzzle-hlm-jinzanxuelimai.json",
-      "bytes": 21191,
-      "sha256": "b3af2aacad27cc8c898cb1b77b24e9ffdee5287018bbcdb6012179c75bc629b1"
+      "bytes": 21073,
+      "sha256": "2a3b1e55669247c2eecaf51c51e982865d0c03c63e77a5f5058d92f98c8a29e5"
     },
     {
       "path": "puzzles/puzzle-hlm-yicongerling.json",
-      "bytes": 22563,
-      "sha256": "8c71be6e793cb528001aa255f025696a9c7aa728afbce344cf95b72c7136907c"
+      "bytes": 21479,
+      "sha256": "19ff1d229f89dc0d46fa704d8c5355f9f433c41ac4d2aa0f9b7ac68db7c63d37"
     },
     {
       "path": "puzzles/puzzle-hlm-jiaoxiake.json",
-      "bytes": 26021,
-      "sha256": "291041f034a2f4f6cbbf9f105740ced6827d519fb93a935886cecbcca234d4a4"
+      "bytes": 25967,
+      "sha256": "8d8abaca99125eb9b5f2e05b74b62895bcc311d5e0a917d1c306bc86f6e57fc3"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-kanwairen.json",
+      "bytes": 27446,
+      "sha256": "7037c5365086ae8edd4cba847f768078f066bd8461d44a7f5a9cf3bd7c0477cc"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-dicuiting.json",
+      "bytes": 33408,
+      "sha256": "97e80cb298120b8df7b6d0506004b21a0deed1297864f2a647aa32bf975fffa5"
     },
     {
       "path": "files/assets/1-hlm_stone_paving-1.webp",
@@ -162,6 +199,11 @@
       "path": "files/assets/1-hlm_stone_paving-3.webp",
       "bytes": 21160,
       "sha256": "0ce5f7deedbdde0198b7f2896f216a84308ea43a5581286cb1db88da68eef76a"
+    },
+    {
+      "path": "files/assets/1-hlm_stone_paving-4.webp",
+      "bytes": 7000,
+      "sha256": "6a9804dc2679a728a22de95b6896c8835c54744bfc41224afe106e9b5cacc668"
     },
     {
       "path": "files/assets/2-hlm_grassy_ground.webp",
@@ -274,14 +316,24 @@
       "sha256": "f8973d5b58bcac150a546e9f995f9038a307fd13baf7cf7c3b964f02e7cc5c63"
     },
     {
-      "path": "files/assets/18-hlm_pond_ground.webp",
+      "path": "files/assets/18-hlm_pond_ground-1.webp",
       "bytes": 6834,
       "sha256": "0834148479e40a1e2bc99f64eefc36a96ebd812d4f845eb74c5f8fdba4e4c0f8"
     },
     {
-      "path": "files/assets/19-hlm_lotus_leaf.webp",
+      "path": "files/assets/18-hlm_pond_ground-2.webp",
+      "bytes": 9348,
+      "sha256": "5310dfdadd9eaef09f955204971eac4df77ebd0d3ba0c254b054f6b12745318c"
+    },
+    {
+      "path": "files/assets/19-hlm_lotus_leaf-1.webp",
       "bytes": 23906,
       "sha256": "97e17907b0ce8e4fba74b3276bc048d8e404af680c19fa5458546758b83ace15"
+    },
+    {
+      "path": "files/assets/19-hlm_lotus_leaf-2.webp",
+      "bytes": 49636,
+      "sha256": "ff3069adb280314a279af9fe20d2f0190eb4dab5c7b52d9a31ab99f180af70eb"
     },
     {
       "path": "files/assets/20-hlm_bookshelf.webp",
@@ -345,13 +397,18 @@
     },
     {
       "path": "files/assets/29-hlm_hairpin.webp",
-      "bytes": 30698,
-      "sha256": "d24c7fc5734dfaad5a23c19b92dd4a050419c0c60bd0665a787daedbf3451e82"
+      "bytes": 38886,
+      "sha256": "d0b8052d3eb3a8744f028f5cd540be5c3ed3d3d67d7a3aec3a463b18b0462f1c"
     },
     {
-      "path": "files/assets/30-hlm_plum.webp",
+      "path": "files/assets/30-hlm_plum-1.webp",
       "bytes": 102110,
       "sha256": "005ef7367c178f28c4b9bdaffe4cebc2a3ec72c7a40a6e10d5f8b2cb94454335"
+    },
+    {
+      "path": "files/assets/30-hlm_plum-2.webp",
+      "bytes": 68656,
+      "sha256": "97d38ad3d6e33081d39579c666e29bb1faf3205a04c8773e528e022f617f2eb3"
     },
     {
       "path": "files/assets/31-hlm_cold_pill.webp",
@@ -405,8 +462,8 @@
     },
     {
       "path": "files/assets/38-hlm_ru_vase.webp",
-      "bytes": 25762,
-      "sha256": "c8ec720b1cddf90a68d33354e7d12e4c8c73d9cfd40b51c42317217915a717a9"
+      "bytes": 26834,
+      "sha256": "468d7bfa0b2deeeb170853b1b0d9bbf66a760db77dbfec9b0a71da510ec0fd0d"
     },
     {
       "path": "files/assets/39-hlm_banana_ground.webp",
@@ -415,18 +472,68 @@
     },
     {
       "path": "files/assets/40-hlm_censer.webp",
-      "bytes": 18802,
-      "sha256": "d0f3c04c5de4d420607441cdfc028cd4814a4afaf24af57ae0304d0eb1825a9b"
+      "bytes": 58446,
+      "sha256": "bf87b2f85f800aa252a33b46c9b3d17e3ce33914180f297efbde34d568e6a3ec"
     },
     {
       "path": "files/assets/41-hlm_kite.webp",
-      "bytes": 48708,
-      "sha256": "08095b4749eddd41305e1699e172f5ede2ec10d55b9eba36ee1e6f3579c76c7b"
+      "bytes": 25636,
+      "sha256": "174b547744449b0cae5ca664ed07169c407f62ef4b8d617c7b18d75e6c578e18"
     },
     {
       "path": "files/assets/42-hlm_wutong.webp",
       "bytes": 80492,
       "sha256": "bc3c52a17a4b4bade94f6e533d177789cb7006e177ea92ffb0d3b71c71f0d166"
+    },
+    {
+      "path": "files/assets/43-hlm_altar.webp",
+      "bytes": 38028,
+      "sha256": "fd26e25c42eae72e6a710546ac5d753699b5dbdd63fb53bb26c719b5bc2d9c47"
+    },
+    {
+      "path": "files/assets/44-hlm_cheng_cup.webp",
+      "bytes": 26780,
+      "sha256": "3921deb5f703f5e6434569ae457488a55d6f511a5ae8a5d39e1a845d7cb1c617"
+    },
+    {
+      "path": "files/assets/45-hlm_threshold.webp",
+      "bytes": 30302,
+      "sha256": "d179e937b33c7b1be1e3e50dea450d142f76ed56b35ef2a41f35ab62cde3c52d"
+    },
+    {
+      "path": "files/assets/46-hlm_table.webp",
+      "bytes": 26060,
+      "sha256": "e93dc121edaa4117c81558499c19cb0b801962339b2ed9b4bfc7e2b42b6e3c4e"
+    },
+    {
+      "path": "files/assets/47-hlm_urn.webp",
+      "bytes": 21358,
+      "sha256": "3e2a4e79f23c9e6f264747e359f9ae054576dd74d505815db687e01e27e8e3ed"
+    },
+    {
+      "path": "files/assets/48-hlm_mount_ground.webp",
+      "bytes": 9506,
+      "sha256": "49c48e1b4d75ae15e5be62b20a856cde36a3157a4eedc90bb8da413c4e5136da"
+    },
+    {
+      "path": "files/assets/49-hlm_willow.webp",
+      "bytes": 138418,
+      "sha256": "76a6d3712b6ce31546c9484febaafc068373b52682a6f3e186610be949381ae2"
+    },
+    {
+      "path": "files/assets/50-hlm_butterfly.webp",
+      "bytes": 38100,
+      "sha256": "6de2920e6c20b5abbb48b1246fdd57c10f8828263076c27824bf452bebb3b8e3"
+    },
+    {
+      "path": "files/assets/51-hlm_apricot-1.webp",
+      "bytes": 94456,
+      "sha256": "0d964b65c91ae4325ef9150cbf1f4b9c1a50a6e02e80b94622746f7e8dc9d20a"
+    },
+    {
+      "path": "files/assets/51-hlm_apricot-2.webp",
+      "bytes": 94934,
+      "sha256": "5bff9b469368326060bff12a3f50b05e699236ff19ad55bc2e4a66c6ac49ca9d"
     },
     {
       "path": "files/avatars/1-hlm_jiabaoyu.webp",
@@ -465,8 +572,8 @@
     },
     {
       "path": "files/avatars/8-hlm_xuebaochai.webp",
-      "bytes": 10024,
-      "sha256": "ac27db2f4fae0cca1c0508b74e653dabbcc46a9117ed563b94a13a3c4d4c242b"
+      "bytes": 9776,
+      "sha256": "12728e796f5d604b43f786a2c057c09b320a630cd8bf327dea87f79315744219"
     },
     {
       "path": "files/avatars/9-hlm_zijuan.webp",
@@ -544,6 +651,36 @@
       "sha256": "ab1d0d5ebac512f64eb4771f3914d42e0594897126e0d82d4c03894ced29b108"
     },
     {
+      "path": "files/avatars/24-hlm_jiamu.webp",
+      "bytes": 10578,
+      "sha256": "a5fda2f223927315d06d693af23284fba8547a4d82f3a14adadd33c551a519e2"
+    },
+    {
+      "path": "files/avatars/25-hlm_miaoyu.webp",
+      "bytes": 9978,
+      "sha256": "503e606ce2c8a7bbf3d509ff7996323ec105bada48fdcea96434f3c994bb23ea"
+    },
+    {
+      "path": "files/avatars/26-hlm_liulaolao.webp",
+      "bytes": 10698,
+      "sha256": "5627d76336ab826826c585d2b245a3ad1d4d97f060ba089d771cba7c506e58ab"
+    },
+    {
+      "path": "files/avatars/27-hlm_xiaohong.webp",
+      "bytes": 9336,
+      "sha256": "0bb70e7e9c33c000d2395fe8d273eb2bfc7c5c762990713ec6cab77a1bc696e0"
+    },
+    {
+      "path": "files/avatars/28-hlm_zhuier.webp",
+      "bytes": 8760,
+      "sha256": "367657290385f416a6ace4a15a18769dc73c383bf6333047eeb65e1be3d24b02"
+    },
+    {
+      "path": "files/avatars/29-hlm_jiayun.webp",
+      "bytes": 9872,
+      "sha256": "ee5931175adc6ab1663f2c781ea5c36a90d39c2cfba7fde3fb087d49f358df31"
+    },
+    {
       "path": "files/covers/1.webp",
       "bytes": 34282,
       "sha256": "8a7fae99846e85de6f446cadc48e526664e0adf28549d1ff2928373359806bd7"
@@ -580,8 +717,8 @@
     },
     {
       "path": "files/covers/4.webp",
-      "bytes": 21904,
-      "sha256": "73280d505fe44af75a9cdeb79781eff8bf96bfa1c6c90ebb68853d9d8980aecf"
+      "bytes": 22494,
+      "sha256": "cc072ba7508cae1154fbf1fc08045edef94b9e01a1a7fdaec4d626c53e1ff7d4"
     },
     {
       "path": "files/covers/5.webp",
@@ -589,9 +726,29 @@
       "sha256": "9b4737829e541c18b8bf978f465da76ac28acadfe31477865c9b5015a955db36"
     },
     {
+      "path": "files/covers/6.webp",
+      "bytes": 23224,
+      "sha256": "116c0b16476bc1c3af162ab0250f9345a131e8619fe9910628da671b2671823b"
+    },
+    {
+      "path": "files/covers/7.webp",
+      "bytes": 9826,
+      "sha256": "50273ebf3fc0ccfbc776ad0abdb739115a778e97838c134f5983daccd20cff99"
+    },
+    {
+      "path": "files/covers/8.webp",
+      "bytes": 16204,
+      "sha256": "0ff6014868bcf941b057fc892ccb4b0274f1aeb934d7d1f738f68277fcf2bfe0"
+    },
+    {
       "path": "files/ring/ring.webp",
       "bytes": 28062,
       "sha256": "b28ca3b1323b380e6ef8fbfde79573ad311d0df6ec7c7a298273d70e5bd36e2d"
+    },
+    {
+      "path": "files/verdict/verdict.webp",
+      "bytes": 5328,
+      "sha256": "85a6e017349aad404603996d76ccedfc937bf19442eb60fc650defee71817378"
     }
   ],
   "originIds": {
@@ -637,7 +794,16 @@
       "39": 5512,
       "40": 5515,
       "41": 5516,
-      "42": 13213
+      "42": 13213,
+      "43": 5518,
+      "44": 13567,
+      "45": 13568,
+      "46": 14445,
+      "47": 13564,
+      "48": 11229,
+      "49": 11210,
+      "50": 11212,
+      "51": 11226
     },
     "characters": {
       "1": 3058,
@@ -662,15 +828,23 @@
       "20": 3444,
       "21": 3445,
       "22": 3443,
-      "23": 3447
+      "23": 3447,
+      "24": 9458,
+      "25": 3448,
+      "26": 9460,
+      "27": 9148,
+      "28": 9149,
+      "29": 12636
     },
     "games": {
-      "puzzle-hlm-sishan": 7304,
-      "puzzle-hlm-shilin": 7305,
-      "puzzle-hlm-yudailinzhonggua": 7629,
-      "puzzle-hlm-jinzanxuelimai": 7634,
-      "puzzle-hlm-yicongerling": 7850,
-      "puzzle-hlm-jiaoxiake": 7852
+      "puzzle-hlm-sishan": 9023,
+      "puzzle-hlm-shilin": 9451,
+      "puzzle-hlm-yudailinzhonggua": 8947,
+      "puzzle-hlm-jinzanxuelimai": 8733,
+      "puzzle-hlm-yicongerling": 8948,
+      "puzzle-hlm-jiaoxiake": 8949,
+      "puzzle-hlm-kanwairen": 8950,
+      "puzzle-hlm-dicuiting": 9019
     }
   }
 }

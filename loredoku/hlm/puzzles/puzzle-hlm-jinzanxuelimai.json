@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-jinzanxuelimai",
   "summary": {
-    "id": 7634,
-    "puzzleId": 20955,
+    "id": 8733,
+    "puzzleId": 23844,
     "themeCode": "hlm",
     "puzzleName": "金簪雪里埋",
-    "puzzleVersionNo": 12,
+    "puzzleVersionNo": 14,
     "name": "金簪雪里埋",
     "slug": "puzzle-hlm-jinzanxuelimai",
-    "coverUrl": "http://localhost:3000/api/files/games/7577/77932f7f-1c25-42bf-a02e-41324cc6ac52.png",
+    "coverUrl": "http://localhost:3000/api/files/games/8733/16ffbba1-6380-4cab-968e-01281bf8ce9f.png",
     "difficulty": 1,
     "sortWeight": 4,
     "gridSize": 5,
     "participantCount": 5,
-    "createdAt": "2026-11-16T04:47:16.364Z"
+    "createdAt": "2026-11-18T14:42:27.415Z"
   },
   "map": {
     "cells": {
@@ -262,9 +262,7 @@
     "style": {
       "ruler": {
         "gap": 24,
-        "fontSize": 24,
-        "rowSymbol": "R",
-        "columnSymbol": "C"
+        "fontSize": 24
       },
       "cellSize": 146,
       "canvasFrame": {
@@ -288,7 +286,7 @@
       },
       "canvasShadow": {
         "color": "#4A3F35",
-        "offset": 21
+        "offset": 25
       },
       "gridSeparator": {
         "color": "#B8AD9C",
@@ -702,9 +700,7 @@
         "style": {
           "ruler": {
             "gap": 24,
-            "fontSize": 24,
-            "rowSymbol": "R",
-            "columnSymbol": "C"
+            "fontSize": 24
           },
           "cellSize": 146,
           "canvasFrame": {
@@ -728,7 +724,7 @@
           },
           "canvasShadow": {
             "color": "#4A3F35",
-            "offset": 21
+            "offset": 25
           },
           "gridSeparator": {
             "color": "#B8AD9C",
@@ -893,9 +889,9 @@
         "version": 8,
         "gridSize": 5
       },
-      "mapId": 47104,
+      "mapId": 51981,
       "mapName": "金簪雪里埋",
-      "versionNo": 12
+      "versionNo": 13
     },
     "name": "金簪雪里埋",
     "clues": [],
@@ -917,7 +913,7 @@
     ],
     "characterSlots": [
       {
-        "clue": "她**在金簪旁边**。",
+        "clue": "她在**金簪旁边**。",
         "linkages": [
           {
             "id": 29,
@@ -937,7 +933,7 @@
         ]
       },
       {
-        "clue": "她坐**在炕上**。",
+        "clue": "她坐在**炕上**。",
         "linkages": [
           {
             "id": 25,
@@ -957,7 +953,7 @@
         ]
       },
       {
-        "clue": "他**在梨花树旁边**。",
+        "clue": "他在**梨花树旁边**。",
         "linkages": [
           {
             "id": 24,
@@ -977,7 +973,7 @@
         ]
       },
       {
-        "clue": "她坐**在石凳上**。",
+        "clue": "她坐在**石凳上**。",
         "linkages": [
           {
             "id": 15,
@@ -997,7 +993,7 @@
         ]
       },
       {
-        "clue": "她**在廊下**。",
+        "clue": "她在**廊下**。",
         "linkages": [
           {
             "id": "rg_47c5212b",

@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-yicongerling",
   "summary": {
-    "id": 7850,
-    "puzzleId": 21694,
+    "id": 8948,
+    "puzzleId": 24533,
     "themeCode": "hlm",
     "puzzleName": "一从二令三人木",
-    "puzzleVersionNo": 14,
+    "puzzleVersionNo": 16,
     "name": "一从二令三人木",
     "slug": "puzzle-hlm-yicongerling",
-    "coverUrl": "http://localhost:3000/api/files/games/7850/f6f9fd2b-a899-4a01-9373-d7a3f610c45a.png",
-    "difficulty": 3,
+    "coverUrl": "http://localhost:3000/api/files/games/8948/59c50115-29d2-4daa-a5f1-d1071778800b.png",
+    "difficulty": 2,
     "sortWeight": 5,
     "gridSize": 5,
     "participantCount": 5,
-    "createdAt": "2026-11-16T12:41:26.652Z"
+    "createdAt": "2026-11-20T07:36:04.492Z"
   },
   "map": {
     "cells": {
@@ -303,7 +303,7 @@
       },
       "canvasShadow": {
         "color": "#4A3F35",
-        "offset": 21
+        "offset": 25
       },
       "gridSeparator": {
         "color": "#B8AD9C",
@@ -746,7 +746,7 @@
           },
           "canvasShadow": {
             "color": "#4A3F35",
-            "offset": 21
+            "offset": 25
           },
           "gridSeparator": {
             "color": "#B8AD9C",
@@ -899,9 +899,9 @@
         "version": 8,
         "gridSize": 5
       },
-      "mapId": 48427,
+      "mapId": 51982,
       "mapName": "一从二令三人木",
-      "versionNo": 6
+      "versionNo": 7
     },
     "name": "一从二令三人木",
     "clues": [],
@@ -939,19 +939,11 @@
           {
             "x": 1,
             "y": 0
-          },
-          {
-            "x": 0,
-            "y": 1
-          },
-          {
-            "x": 2,
-            "y": 1
           }
         ]
       },
       {
-        "clue": "他在**兴儿的东北方（右上方）**。",
+        "clue": "他在**兴儿的右上方**。",
         "linkages": [
           {
             "id": 15,
@@ -966,27 +958,11 @@
           {
             "x": 3,
             "y": 1
-          },
-          {
-            "x": 4,
-            "y": 1
-          },
-          {
-            "x": 3,
-            "y": 2
-          },
-          {
-            "x": 3,
-            "y": 3
-          },
-          {
-            "x": 4,
-            "y": 3
           }
         ]
       },
       {
-        "clue": "她在**贾琏的西南方（左下方）**。",
+        "clue": "她在**贾琏的左下方**。",
         "linkages": [
           {
             "id": 14,
@@ -1001,31 +977,11 @@
           {
             "x": 0,
             "y": 2
-          },
-          {
-            "x": 1,
-            "y": 2
-          },
-          {
-            "x": 0,
-            "y": 3
-          },
-          {
-            "x": 1,
-            "y": 3
-          },
-          {
-            "x": 1,
-            "y": 4
-          },
-          {
-            "x": 2,
-            "y": 4
           }
         ]
       },
       {
-        "clue": "她在**贾琏的东南方（右下方）**。",
+        "clue": "她在**贾琏的右下方**。",
         "linkages": [
           {
             "id": 14,
@@ -1044,7 +1000,7 @@
         ]
       },
       {
-        "clue": "他在**尤二姐的东南方（右下方）**。",
+        "clue": "他在**尤二姐的右下方**。",
         "linkages": [
           {
             "id": 16,
@@ -1057,27 +1013,7 @@
         "characterId": 15,
         "positionConditions": [
           {
-            "x": 1,
-            "y": 3
-          },
-          {
-            "x": 3,
-            "y": 3
-          },
-          {
-            "x": 4,
-            "y": 3
-          },
-          {
-            "x": 1,
-            "y": 4
-          },
-          {
             "x": 2,
-            "y": 4
-          },
-          {
-            "x": 3,
             "y": 4
           }
         ]

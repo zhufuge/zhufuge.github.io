@@ -1,0 +1,1352 @@
+{
+  "key": "puzzle-hlm-kanwairen",
+  "summary": {
+    "id": 8950,
+    "puzzleId": 24535,
+    "themeCode": "hlm",
+    "puzzleName": "槛外人",
+    "puzzleVersionNo": 16,
+    "name": "槛外人",
+    "slug": "puzzle-hlm-kanwairen",
+    "coverUrl": "http://localhost:3000/api/files/games/8950/b3cc33a0-0bb8-4a9f-a100-d1c441d4855c.png",
+    "difficulty": 2,
+    "sortWeight": 7,
+    "gridSize": 6,
+    "participantCount": 6,
+    "createdAt": "2026-11-20T07:40:00.633Z"
+  },
+  "map": {
+    "cells": {
+      "0,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.15,
+          "assetId": 43,
+          "offsetY": -0.05,
+          "variantId": 52
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "0,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.3,
+          "assetId": 36,
+          "offsetY": -0.2,
+          "variantId": 45
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "0,2": {
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "0,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.35,
+          "assetId": 30,
+          "offsetY": -0.15,
+          "variantId": 53
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "0,4": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "0,5": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.3,
+          "assetId": 10,
+          "variantId": 11
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "1,0": {
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "1,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 17,
+          "variantId": 37
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "1,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.5,
+          "assetId": 44,
+          "variantId": 54
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "1,3": {
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "1,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.9,
+          "assetId": 45,
+          "offsetY": -0.05,
+          "variantId": 55
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "1,5": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.5,
+          "assetId": 44,
+          "variantId": 54
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "2,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.8,
+          "assetId": 40,
+          "variantId": 49
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 17
+        }
+      },
+      "2,1": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.35,
+          "assetId": 30,
+          "offsetY": -0.15,
+          "variantId": 53
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "2,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.1,
+          "assetId": 26,
+          "variantId": 27
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "2,3": {
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "2,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 17,
+          "variantId": 37
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "2,5": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "3,0": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "3,1": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "3,2": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "3,3": {
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "3,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "assetId": 17,
+          "variantId": 37
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "3,5": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "4,0": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.35,
+          "assetId": 30,
+          "offsetY": -0.15,
+          "variantId": 53
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "4,1": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "4,2": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "4,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 1.15,
+          "assetId": 46,
+          "offsetY": -0.05,
+          "variantId": 56
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "4,4": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.5,
+          "assetId": 44,
+          "variantId": 54
+        },
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "4,5": {
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "5,0": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "5,1": {
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "5,2": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.85,
+          "assetId": 28,
+          "variantId": 30
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "5,3": {
+        "item": {
+          "h": 1,
+          "w": 1,
+          "scale": 0.75,
+          "assetId": 47,
+          "variantId": 57
+        },
+        "background": {
+          "assetId": 27,
+          "variantId": 28
+        }
+      },
+      "5,4": {
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      },
+      "5,5": {
+        "background": {
+          "assetId": 16,
+          "variantId": 39
+        }
+      }
+    },
+    "style": {
+      "ruler": {
+        "gap": 24,
+        "fontSize": 24
+      },
+      "cellSize": 120,
+      "canvasFrame": {
+        "color": "#4A3F35",
+        "width": 5
+      },
+      "itemOutline": {
+        "color": "#6A5647",
+        "width": 2
+      },
+      "regionLabel": {
+        "color": "#7A6E60",
+        "fontSize": 30,
+        "fontFamily": "霞鹜文楷",
+        "hoverColor": "#F4A83A",
+        "strokeColor": "#F7F1E6",
+        "strokeWidth": 5,
+        "hoverFontSize": 34,
+        "hoverStrokeColor": "#F7F1E6",
+        "hoverStrokeWidth": 0
+      },
+      "canvasShadow": {
+        "color": "#4A3F35",
+        "offset": 25
+      },
+      "gridSeparator": {
+        "color": "#B8AD9C",
+        "width": 3
+      },
+      "regionOutline": {
+        "color": "#6B6257",
+        "width": 5
+      },
+      "mouseCursorBox": {
+        "color": "#FFFFFF",
+        "width": 3,
+        "shadowColor": "rgba(0,0,0,0.15)",
+        "blockedColor": "#9E3D3D"
+      },
+      "regionHighlight": {
+        "color": "#F4A83A",
+        "width": 5
+      },
+      "operationCursorBox": {
+        "color": "#3B82F6",
+        "width": 3,
+        "offset": 1
+      }
+    },
+    "regions": [
+      {
+        "id": "rg_hall",
+        "name": "佛堂",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "rg_plum",
+        "name": "梅院",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            5,
+            3
+          ]
+        ],
+        "style": {
+          "label": {
+            "offset": {
+              "x": -100,
+              "y": -100
+            }
+          }
+        },
+        "labelCell": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "rg_wing",
+        "name": "耳房",
+        "cells": [
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "rg_gate",
+        "name": "山门",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      }
+    ],
+    "version": 8,
+    "gridSize": 6
+  },
+  "puzzle": {
+    "map": {
+      "data": {
+        "cells": {
+          "0,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.15,
+              "assetId": 43,
+              "offsetY": -0.05,
+              "variantId": 52
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "0,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.3,
+              "assetId": 36,
+              "offsetY": -0.2,
+              "variantId": 45
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "0,2": {
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "0,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.35,
+              "assetId": 30,
+              "offsetY": -0.15,
+              "variantId": 53
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "0,4": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "0,5": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.3,
+              "assetId": 10,
+              "variantId": 11
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "1,0": {
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "1,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 17,
+              "variantId": 37
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "1,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.5,
+              "assetId": 44,
+              "variantId": 54
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "1,3": {
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "1,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.9,
+              "assetId": 45,
+              "offsetY": -0.05,
+              "variantId": 55
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "1,5": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.5,
+              "assetId": 44,
+              "variantId": 54
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "2,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.8,
+              "assetId": 40,
+              "variantId": 49
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 17
+            }
+          },
+          "2,1": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.35,
+              "assetId": 30,
+              "offsetY": -0.15,
+              "variantId": 53
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "2,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.1,
+              "assetId": 26,
+              "variantId": 27
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "2,3": {
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "2,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 17,
+              "variantId": 37
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "2,5": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "3,0": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "3,1": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "3,2": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "3,3": {
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "3,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "assetId": 17,
+              "variantId": 37
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "3,5": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "4,0": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.35,
+              "assetId": 30,
+              "offsetY": -0.15,
+              "variantId": 53
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "4,1": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "4,2": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "4,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 1.15,
+              "assetId": 46,
+              "offsetY": -0.05,
+              "variantId": 56
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "4,4": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.5,
+              "assetId": 44,
+              "variantId": 54
+            },
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "4,5": {
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "5,0": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "5,1": {
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "5,2": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.85,
+              "assetId": 28,
+              "variantId": 30
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "5,3": {
+            "item": {
+              "h": 1,
+              "w": 1,
+              "scale": 0.75,
+              "assetId": 47,
+              "variantId": 57
+            },
+            "background": {
+              "assetId": 27,
+              "variantId": 28
+            }
+          },
+          "5,4": {
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          },
+          "5,5": {
+            "background": {
+              "assetId": 16,
+              "variantId": 39
+            }
+          }
+        },
+        "style": {
+          "ruler": {
+            "gap": 24,
+            "fontSize": 24
+          },
+          "cellSize": 120,
+          "canvasFrame": {
+            "color": "#4A3F35",
+            "width": 5
+          },
+          "itemOutline": {
+            "color": "#6A5647",
+            "width": 2
+          },
+          "regionLabel": {
+            "color": "#7A6E60",
+            "fontSize": 30,
+            "fontFamily": "霞鹜文楷",
+            "hoverColor": "#F4A83A",
+            "strokeColor": "#F7F1E6",
+            "strokeWidth": 5,
+            "hoverFontSize": 34,
+            "hoverStrokeColor": "#F7F1E6",
+            "hoverStrokeWidth": 0
+          },
+          "canvasShadow": {
+            "color": "#4A3F35",
+            "offset": 25
+          },
+          "gridSeparator": {
+            "color": "#B8AD9C",
+            "width": 3
+          },
+          "regionOutline": {
+            "color": "#6B6257",
+            "width": 5
+          },
+          "mouseCursorBox": {
+            "color": "#FFFFFF",
+            "width": 3,
+            "shadowColor": "rgba(0,0,0,0.15)",
+            "blockedColor": "#9E3D3D"
+          },
+          "regionHighlight": {
+            "color": "#F4A83A",
+            "width": 5
+          },
+          "operationCursorBox": {
+            "color": "#3B82F6",
+            "width": 3,
+            "offset": 1
+          }
+        },
+        "regions": [
+          {
+            "id": "rg_hall",
+            "name": "佛堂",
+            "cells": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                0
+              ],
+              [
+                2,
+                0
+              ],
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                1,
+                3
+              ]
+            ]
+          },
+          {
+            "id": "rg_plum",
+            "name": "梅院",
+            "cells": [
+              [
+                3,
+                0
+              ],
+              [
+                4,
+                0
+              ],
+              [
+                5,
+                0
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                5,
+                3
+              ]
+            ],
+            "style": {
+              "label": {
+                "offset": {
+                  "x": -100,
+                  "y": -100
+                }
+              }
+            },
+            "labelCell": [
+              5,
+              3
+            ]
+          },
+          {
+            "id": "rg_wing",
+            "name": "耳房",
+            "cells": [
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                2,
+                4
+              ],
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                4
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                5
+              ]
+            ]
+          },
+          {
+            "id": "rg_gate",
+            "name": "山门",
+            "cells": [
+              [
+                0,
+                3
+              ],
+              [
+                0,
+                4
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                0,
+                5
+              ],
+              [
+                1,
+                5
+              ],
+              [
+                2,
+                5
+              ],
+              [
+                3,
+                5
+              ]
+            ]
+          }
+        ],
+        "version": 8,
+        "gridSize": 6
+      },
+      "mapId": 51985,
+      "mapName": "槛外人",
+      "versionNo": 9
+    },
+    "name": "槛外人",
+    "clues": [
+      "每个区域只有一个人或只有两个人。"
+    ],
+    "ending": "成窑小盖钟里还剩半盏老君眉。刘姥姥使过的那只，妙玉搁在山门外，说不要了——她嫌的未必是那只杯子，是杯子见过的人。梅院的红梅，那年没有人去折。五年前收的梅花雪，煮到这一盏也凉了。「欲洁何曾洁，云空未必空」。",
+    "version": 2,
+    "rosterCols": null,
+    "description": "栊翠庵的茶凉了。妙玉亲手捧出去的那几只钟子还搁在原处，人却各在各的院里——佛堂、梅院、耳房、山门。她只说过一句「槛外之人」，再不肯多说一个字。",
+    "linkageColors": [
+      {
+        "key": "gold",
+        "color": "#F1AB44",
+        "label": "金"
+      },
+      {
+        "key": "red",
+        "color": "#9E3D3D",
+        "label": "红"
+      }
+    ],
+    "characterSlots": [
+      {
+        "clue": "她在**屏风旁边**。",
+        "linkages": [
+          {
+            "id": 36,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#9B9993",
+        "characterId": 24,
+        "positionConditions": [
+          {
+            "x": 0,
+            "y": 2
+          }
+        ]
+      },
+      {
+        "clue": "她在**宝玉的右上方**。",
+        "linkages": [
+          {
+            "id": 1,
+            "type": "character",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#A8B8C0",
+        "characterId": 25,
+        "positionConditions": [
+          {
+            "x": 5,
+            "y": 0
+          }
+        ]
+      },
+      {
+        "clue": "她在**茶炉旁边**。",
+        "linkages": [
+          {
+            "id": 26,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#B08A9A",
+        "characterId": 8,
+        "positionConditions": [
+          {
+            "x": 2,
+            "y": 3
+          }
+        ]
+      },
+      {
+        "clue": "她在**耳房**。",
+        "linkages": [
+          {
+            "id": "rg_wing",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#91AA95",
+        "characterId": 7,
+        "positionConditions": [
+          {
+            "x": 4,
+            "y": 5
+          }
+        ]
+      },
+      {
+        "clue": "他在**黛玉的左方**。",
+        "linkages": [
+          {
+            "id": 7,
+            "type": "character",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#A83A3A",
+        "characterId": 1,
+        "positionConditions": [
+          {
+            "x": 3,
+            "y": 1
+          }
+        ]
+      },
+      {
+        "clue": "她在**成窑茶杯的旁边**。",
+        "linkages": [
+          {
+            "id": 44,
+            "type": "asset",
+            "color": "gold",
+            "scope": "all",
+            "effect": "highlight"
+          }
+        ],
+        "themeColor": "#9A8A6A",
+        "characterId": 26,
+        "positionConditions": [
+          {
+            "x": 1,
+            "y": 4
+          }
+        ]
+      }
+    ],
+    "mark": {
+      "path": "files/marks/theme.webp"
+    },
+    "toolIcons": {
+      "clear": {
+        "path": "files/icons/theme-clear.webp"
+      },
+      "undo": {
+        "path": "files/icons/theme-undo.webp"
+      },
+      "submit": {
+        "path": "files/icons/theme-submit.webp"
+      }
+    }
+  }
+}

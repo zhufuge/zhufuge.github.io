@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-jiaoxiake",
   "summary": {
-    "id": 7852,
-    "puzzleId": 21696,
+    "id": 8949,
+    "puzzleId": 24534,
     "themeCode": "hlm",
     "puzzleName": "蕉下客",
-    "puzzleVersionNo": 17,
+    "puzzleVersionNo": 20,
     "name": "蕉下客",
     "slug": "puzzle-hlm-jiaoxiake",
-    "coverUrl": null,
+    "coverUrl": "http://localhost:3000/api/files/games/8949/b1be0ebf-8b97-4a97-a669-fb5bb8150e77.png",
     "difficulty": 2,
     "sortWeight": 6,
     "gridSize": 6,
     "participantCount": 6,
-    "createdAt": "2026-11-16T13:13:12.610Z"
+    "createdAt": "2026-11-20T07:37:38.733Z"
   },
   "map": {
     "cells": {
@@ -1133,10 +1133,10 @@
     "clues": [
       "每个区域恰好有零个人或两个人。"
     ],
-    "ending": "风筝卧在蕉下，探春就在旁边；侍书在她东北方；斋内是李纨与贾兰，一个在花囊侧，一个坐在窗下椅子上；晓翠堂里翠墨在西，赵姨娘在南角。六个人都有了去处。线断了，东风未起；千里之遥，不过一梦。",
+    "ending": "风筝卧在蕉下，探春就在旁边；侍书在她东北方；斋内是李纨与贾兰，一个在花囊侧，一个坐在窗下椅子上；晓翠堂里翠墨在打扫，赵姨娘刚进堂内。线断了，东风未起；千里之遥，不过一梦。",
     "version": 2,
     "rosterCols": null,
-    "description": "秋爽斋三间屋子不曾隔断，探春却不在斋中；断了线的风筝卧在蕉下。六个人散在屋、院、廊、堂，每一处要么空着，要么正好两个人。",
+    "description": "秋爽斋中，探春在院子里放风筝，但是风筝断了线，落在了蕉下。六个人散在屋、院、廊、堂，每一处要么空着，要么正好两个人。",
     "linkageColors": [
       {
         "key": "gold",
@@ -1165,21 +1165,13 @@
         "characterId": 18,
         "positionConditions": [
           {
-            "x": 3,
-            "y": 2
-          },
-          {
             "x": 2,
-            "y": 3
-          },
-          {
-            "x": 4,
             "y": 3
           }
         ]
       },
       {
-        "clue": "她在**探春的东北方（右上方）**。",
+        "clue": "她在**探春的右上方**。",
         "linkages": [
           {
             "id": 18,
@@ -1188,8 +1180,14 @@
             "effect": "highlight"
           }
         ],
-        "themeColor": "#9A8CA8",
-        "characterId": 19
+        "themeColor": "#B5A480",
+        "characterId": 19,
+        "positionConditions": [
+          {
+            "x": 3,
+            "y": 2
+          }
+        ]
       },
       {
         "clue": "她在**汝窑花囊旁边**。",
@@ -1202,16 +1200,12 @@
             "effect": "highlight"
           }
         ],
-        "themeColor": "#A8AE9A",
+        "themeColor": "#BDB6B3",
         "characterId": 20,
         "positionConditions": [
           {
             "x": 1,
             "y": 0
-          },
-          {
-            "x": 0,
-            "y": 1
           }
         ]
       },
@@ -1226,29 +1220,17 @@
             "effect": "highlight"
           }
         ],
-        "themeColor": "#8FA08A",
+        "themeColor": "#3D4D5A",
         "characterId": 21,
         "positionConditions": [
           {
-            "x": 5,
-            "y": 0
-          },
-          {
-            "x": 1,
-            "y": 1
-          },
-          {
             "x": 4,
             "y": 1
-          },
-          {
-            "x": 0,
-            "y": 5
           }
         ]
       },
       {
-        "clue": "她在**探春的西南方（左下方）**。",
+        "clue": "她在**探春的左下方**。",
         "linkages": [
           {
             "id": 18,
@@ -1258,18 +1240,27 @@
           }
         ],
         "themeColor": "#6E7A6A",
-        "characterId": 22
+        "characterId": 22,
+        "positionConditions": [
+          {
+            "x": 0,
+            "y": 4
+          }
+        ]
       },
       {
         "clue": "她在**晓翠堂**。",
-        "linkages": [],
+        "linkages": [
+          {
+            "id": "rg_xiaocui",
+            "type": "region",
+            "color": "gold",
+            "effect": "highlight"
+          }
+        ],
         "themeColor": "#A88A8A",
         "characterId": 23,
         "positionConditions": [
-          {
-            "x": 3,
-            "y": 5
-          },
           {
             "x": 5,
             "y": 5
