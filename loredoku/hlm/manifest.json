@@ -1,7 +1,7 @@
 {
   "format": "loredoku-theme",
   "formatVersion": 1,
-  "exportedAt": "2026-11-22T10:06:46.642Z",
+  "exportedAt": "2026-11-22T12:12:27.492Z",
   "theme": {
     "code": "hlm",
     "name": "红楼梦",
@@ -45,7 +45,8 @@
     "gameList": {
       "passed": "已解 {n} 题",
       "playable": "{n} 题可解"
-    }
+    },
+    "fontFamily": "霞鹜文楷"
   },
   "games": [
     {
@@ -133,12 +134,12 @@
     {
       "path": "theme.json",
       "bytes": 181,
-      "sha256": "2f411b0681a4b97203493af08fc3db86f394ca269bc9ea74455160279869436c"
+      "sha256": "06c1db6f5ad0347b72f6d0599f1d0c82a191fb337fc78279fdb1b877111685c9"
     },
     {
       "path": "assets.json",
-      "bytes": 50505,
-      "sha256": "a3575f78f47a63e71403ac0369bee4c3dc862f9a5b5c781f0cee4cbdcb3577cc"
+      "bytes": 50511,
+      "sha256": "3fdfbe188b3ca72a079d35335bbffb8804bb826ea30979136e919d59433dcfb9"
     },
     {
       "path": "characters.json",
@@ -386,7 +387,7 @@
       "sha256": "e87af29f69aaf062d28963424bcbe6e8f64e5a67381a89c3f86d24f164037029"
     },
     {
-      "path": "files/assets/27-hlm_snow_ground.webp",
+      "path": "files/assets/27-hlm_snow_ground-1.webp",
       "bytes": 21716,
       "sha256": "faa0da07f77bab43c9f082070f1fae9efd0bf041851e9f55f2849fa5da808479"
     },

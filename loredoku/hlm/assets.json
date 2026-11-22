@@ -956,9 +956,9 @@
           "w": 1,
           "h": 1,
           "fitMode": "cover",
-          "imagePath": "files/assets/27-hlm_snow_ground.webp",
-          "imageUrl": "files/assets/27-hlm_snow_ground.webp",
-          "imageThumbUrl": "files/assets/27-hlm_snow_ground.webp",
+          "imagePath": "files/assets/27-hlm_snow_ground-1.webp",
+          "imageUrl": "files/assets/27-hlm_snow_ground-1.webp",
+          "imageThumbUrl": "files/assets/27-hlm_snow_ground-1.webp",
           "bgColor": null,
           "createdAt": "2026-10-27T13:40:29.702Z",
           "updatedAt": "2026-11-13T11:39:10.905Z"
