@@ -1,7 +1,7 @@
 {
   "format": "loredoku-theme",
   "formatVersion": 1,
-  "exportedAt": "2026-11-22T12:12:27.492Z",
+  "exportedAt": "2026-11-23T13:07:45.734Z",
   "theme": {
     "code": "hlm",
     "name": "红楼梦",
@@ -120,6 +120,15 @@
       "gridSize": 7,
       "difficulty": 2,
       "cover": "files/covers/8.webp"
+    },
+    {
+      "key": "puzzle-hlm-kanposanchun",
+      "file": "puzzles/puzzle-hlm-kanposanchun.json",
+      "name": "勘破三春",
+      "puzzleName": "勘破三春",
+      "gridSize": 7,
+      "difficulty": 2,
+      "cover": "files/covers/9.webp"
     }
   ],
   "assets": "assets.json",
@@ -134,17 +143,17 @@
     {
       "path": "theme.json",
       "bytes": 181,
-      "sha256": "06c1db6f5ad0347b72f6d0599f1d0c82a191fb337fc78279fdb1b877111685c9"
+      "sha256": "ee49a696bf731d259dcf342d8860111aefec7ce3f4f951b1e7a31d6729282986"
     },
     {
       "path": "assets.json",
-      "bytes": 50511,
-      "sha256": "3fdfbe188b3ca72a079d35335bbffb8804bb826ea30979136e919d59433dcfb9"
+      "bytes": 56003,
+      "sha256": "7311ef992df0c3c625e2d2950a714879ca178d865d245753247c280c169be54f"
     },
     {
       "path": "characters.json",
-      "bytes": 15165,
-      "sha256": "127db58112f7304144e56c4f80e3a6abdb30740851213f604809913777c832ba"
+      "bytes": 17292,
+      "sha256": "f79ec57c4f73b915a3f928b2bf068811708683285df4bf240f931519313ce0ef"
     },
     {
       "path": "puzzles/puzzle-hlm-sishan.json",
@@ -173,18 +182,23 @@
     },
     {
       "path": "puzzles/puzzle-hlm-jiaoxiake.json",
-      "bytes": 25967,
-      "sha256": "8d8abaca99125eb9b5f2e05b74b62895bcc311d5e0a917d1c306bc86f6e57fc3"
+      "bytes": 25969,
+      "sha256": "6de8203bcaa2c15accf96de66005977021052d5e20a4aafa0f23738dec3d471a"
     },
     {
       "path": "puzzles/puzzle-hlm-kanwairen.json",
-      "bytes": 27446,
-      "sha256": "7037c5365086ae8edd4cba847f768078f066bd8461d44a7f5a9cf3bd7c0477cc"
+      "bytes": 27447,
+      "sha256": "2f258c6c8cbe9ab4fc638f4d1e6a391f78df31e879052352eed11949f052d29b"
     },
     {
       "path": "puzzles/puzzle-hlm-dicuiting.json",
       "bytes": 33408,
-      "sha256": "97e80cb298120b8df7b6d0506004b21a0deed1297864f2a647aa32bf975fffa5"
+      "sha256": "0e53a489fe4f1f7e17fc82515235c6b811fa94a1a6327bfcbf0c97f47223a1dc"
+    },
+    {
+      "path": "puzzles/puzzle-hlm-kanposanchun.json",
+      "bytes": 36412,
+      "sha256": "d62c5de086eec5ec27dbf8481ad61a427ab5f99dbe283c9ebf7c33462eea615f"
     },
     {
       "path": "files/assets/1-hlm_stone_paving-1.webp",
@@ -205,6 +219,11 @@
       "path": "files/assets/1-hlm_stone_paving-4.webp",
       "bytes": 7000,
       "sha256": "6a9804dc2679a728a22de95b6896c8835c54744bfc41224afe106e9b5cacc668"
+    },
+    {
+      "path": "files/assets/1-hlm_stone_paving-5.webp",
+      "bytes": 4190,
+      "sha256": "536af357124aaaac7cafdbe689d8f1efe5b65dd238d7f3d71f4aa5d042a859db"
     },
     {
       "path": "files/assets/2-hlm_grassy_ground.webp",
@@ -297,6 +316,11 @@
       "sha256": "84f0affa073b7d55f3c018fbd447c7b1bdf9f5c53c676f0e6090b6df3f9ccebb"
     },
     {
+      "path": "files/assets/16-hlm_room_ground-2.webp",
+      "bytes": 5460,
+      "sha256": "2a6817cef52c5fade529b82343b5cca3ee61d588cec369190bf585b72359b877"
+    },
+    {
       "path": "files/assets/16-hlm_room_ground-3.webp",
       "bytes": 23096,
       "sha256": "1d45c97fbf03645d29ccff1ad3dbae3ca0228133706bd566266187bae204e5f4"
@@ -325,6 +349,11 @@
       "path": "files/assets/18-hlm_pond_ground-2.webp",
       "bytes": 9348,
       "sha256": "5310dfdadd9eaef09f955204971eac4df77ebd0d3ba0c254b054f6b12745318c"
+    },
+    {
+      "path": "files/assets/18-hlm_pond_ground-3.webp",
+      "bytes": 2706,
+      "sha256": "e0edfa77c05639b3d589c6bcc9530e09e1ac51b17fdebae57e2d28ed68da4f90"
     },
     {
       "path": "files/assets/19-hlm_lotus_leaf-1.webp",
@@ -392,6 +421,11 @@
       "sha256": "faa0da07f77bab43c9f082070f1fae9efd0bf041851e9f55f2849fa5da808479"
     },
     {
+      "path": "files/assets/27-hlm_snow_ground-2.webp",
+      "bytes": 11172,
+      "sha256": "8b215ae1a7c6c3c88536ea0e82582d2e550dd8553bf6d1621ef796f23307b073"
+    },
+    {
       "path": "files/assets/28-hlm_snow_heap.webp",
       "bytes": 20000,
       "sha256": "cd8afd11998107df91ba1214f8be577587476775cbb6a4bad4dbef2e7317213d"
@@ -440,6 +474,16 @@
       "path": "files/assets/33-hlm_carpet-4.webp",
       "bytes": 9082,
       "sha256": "d27483982b33a6c7adbd57a7cb6b5f4114971e6660c2c69757f9d4b4b5b2b31a"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-5.webp",
+      "bytes": 11524,
+      "sha256": "72fd29539e8983ef049ebc225120bae12e08a7c55a1f6dc5a1ebe179289a8aef"
+    },
+    {
+      "path": "files/assets/33-hlm_carpet-6.webp",
+      "bytes": 10172,
+      "sha256": "7e36d040dcc14dbafb1178a02dabde0af00db10743bcb164dcfa2b08e8c5d19e"
     },
     {
       "path": "files/assets/34-hlm_brazier.webp",
@@ -535,6 +579,21 @@
       "path": "files/assets/51-hlm_apricot-2.webp",
       "bytes": 94934,
       "sha256": "5bff9b469368326060bff12a3f50b05e699236ff19ad55bc2e4a66c6ac49ca9d"
+    },
+    {
+      "path": "files/assets/52-hlm_lantern_riddle.webp",
+      "bytes": 41414,
+      "sha256": "71c65f64a24b4ce41bacbe5d40715c4b43a535d7cd71ef1f436fd05f3df2f5f0"
+    },
+    {
+      "path": "files/assets/53-hlm_sea_lamp.webp",
+      "bytes": 71728,
+      "sha256": "8567cc67e3e97fc8803653676837ef6270d20bc670406882bcf81760124837e6"
+    },
+    {
+      "path": "files/assets/54-hlm_painting_desk.webp",
+      "bytes": 36292,
+      "sha256": "bd1eeceb16ff2e061ad653f8696a2f080a4ec9328373a754a500a8d46ca10040"
     },
     {
       "path": "files/avatars/1-hlm_jiabaoyu.webp",
@@ -682,6 +741,26 @@
       "sha256": "ee5931175adc6ab1663f2c781ea5c36a90d39c2cfba7fde3fb087d49f358df31"
     },
     {
+      "path": "files/avatars/30-hlm_jiaxichun.webp",
+      "bytes": 9656,
+      "sha256": "9ad439e37a325a704b18ec1879826737dfe6e8487f7df4038ad2f28ab51ba1b9"
+    },
+    {
+      "path": "files/avatars/31-hlm_ruhua.webp",
+      "bytes": 9380,
+      "sha256": "68f3efbee17f19fba243d6aab1d4d4f2b7e9a30bc457e329748efbbfbfa6fb2f"
+    },
+    {
+      "path": "files/avatars/32-hlm_jiazheng.webp",
+      "bytes": 10138,
+      "sha256": "e3f79259b2e260b6aeb0cfb88edb2d372c816b367d33362c335917877846558d"
+    },
+    {
+      "path": "files/avatars/33-hlm_jiayingchun.webp",
+      "bytes": 10218,
+      "sha256": "95e142d52a960b23aac1d429cb4c33c964757e682c284f85320123fceeba73ca"
+    },
+    {
       "path": "files/covers/1.webp",
       "bytes": 34282,
       "sha256": "8a7fae99846e85de6f446cadc48e526664e0adf28549d1ff2928373359806bd7"
@@ -740,6 +819,11 @@
       "path": "files/covers/8.webp",
       "bytes": 16204,
       "sha256": "0ff6014868bcf941b057fc892ccb4b0274f1aeb934d7d1f738f68277fcf2bfe0"
+    },
+    {
+      "path": "files/covers/9.webp",
+      "bytes": 11396,
+      "sha256": "1a505b840f7134590f0189bddd13865da9a0fad5360c4e42cbe55e5c442de6fb"
     },
     {
       "path": "files/ring/ring.webp",
@@ -804,7 +888,10 @@
       "48": 11229,
       "49": 11210,
       "50": 11212,
-      "51": 11226
+      "51": 11226,
+      "52": 15424,
+      "53": 14590,
+      "54": 15425
     },
     "characters": {
       "1": 3058,
@@ -835,7 +922,11 @@
       "26": 9460,
       "27": 9148,
       "28": 9149,
-      "29": 12636
+      "29": 12636,
+      "30": 3452,
+      "31": 3455,
+      "32": 9459,
+      "33": 3451
     },
     "games": {
       "puzzle-hlm-sishan": 9023,
@@ -843,9 +934,10 @@
       "puzzle-hlm-yudailinzhonggua": 8947,
       "puzzle-hlm-jinzanxuelimai": 8733,
       "puzzle-hlm-yicongerling": 8948,
-      "puzzle-hlm-jiaoxiake": 8949,
-      "puzzle-hlm-kanwairen": 8950,
-      "puzzle-hlm-dicuiting": 9019
+      "puzzle-hlm-jiaoxiake": 9508,
+      "puzzle-hlm-kanwairen": 9509,
+      "puzzle-hlm-dicuiting": 9519,
+      "puzzle-hlm-kanposanchun": 9526
     }
   }
 }

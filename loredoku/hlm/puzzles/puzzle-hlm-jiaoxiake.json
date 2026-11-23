@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-jiaoxiake",
   "summary": {
-    "id": 8949,
-    "puzzleId": 24534,
+    "id": 9508,
+    "puzzleId": 25968,
     "themeCode": "hlm",
     "puzzleName": "蕉下客",
-    "puzzleVersionNo": 20,
+    "puzzleVersionNo": 21,
     "name": "蕉下客",
     "slug": "puzzle-hlm-jiaoxiake",
-    "coverUrl": "http://localhost:3000/api/files/games/8949/b1be0ebf-8b97-4a97-a669-fb5bb8150e77.png",
+    "coverUrl": "http://localhost:3000/api/files/games/9508/47162e40-853e-464f-84ab-b0f33d9c3c41.png",
     "difficulty": 2,
     "sortWeight": 6,
     "gridSize": 6,
     "participantCount": 6,
-    "createdAt": "2026-11-20T07:37:38.733Z"
+    "createdAt": "2026-11-23T09:20:00.928Z"
   },
   "map": {
     "cells": {
@@ -21,7 +21,7 @@
         "item": {
           "h": 1,
           "w": 1,
-          "scale": 0.85,
+          "scale": 0.75,
           "assetId": 38,
           "variantId": 47
         },
@@ -205,7 +205,7 @@
         "item": {
           "h": 1,
           "w": 1,
-          "scale": 0.8,
+          "scale": 0.75,
           "assetId": 41,
           "variantId": 50
         },
@@ -355,7 +355,7 @@
       },
       "itemOutline": {
         "color": "#6A5647",
-        "width": 2
+        "width": 1
       },
       "regionLabel": {
         "color": "#7A6E60",
@@ -577,7 +577,7 @@
             "item": {
               "h": 1,
               "w": 1,
-              "scale": 0.85,
+              "scale": 0.75,
               "assetId": 38,
               "variantId": 47
             },
@@ -761,7 +761,7 @@
             "item": {
               "h": 1,
               "w": 1,
-              "scale": 0.8,
+              "scale": 0.75,
               "assetId": 41,
               "variantId": 50
             },
@@ -911,7 +911,7 @@
           },
           "itemOutline": {
             "color": "#6A5647",
-            "width": 2
+            "width": 1
           },
           "regionLabel": {
             "color": "#7A6E60",
@@ -1125,9 +1125,9 @@
         "version": 8,
         "gridSize": 6
       },
-      "mapId": 47573,
+      "mapId": 55492,
       "mapName": "蕉下客",
-      "versionNo": 13
+      "versionNo": 15
     },
     "name": "蕉下客",
     "clues": [

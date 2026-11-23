@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-kanwairen",
   "summary": {
-    "id": 8950,
-    "puzzleId": 24535,
+    "id": 9509,
+    "puzzleId": 25967,
     "themeCode": "hlm",
     "puzzleName": "槛外人",
-    "puzzleVersionNo": 16,
+    "puzzleVersionNo": 17,
     "name": "槛外人",
     "slug": "puzzle-hlm-kanwairen",
-    "coverUrl": "http://localhost:3000/api/files/games/8950/b3cc33a0-0bb8-4a9f-a100-d1c441d4855c.png",
+    "coverUrl": "http://localhost:3000/api/files/games/9509/1342982b-2171-4e13-a264-bdbc2a54a5cf.png",
     "difficulty": 2,
     "sortWeight": 7,
     "gridSize": 6,
     "participantCount": 6,
-    "createdAt": "2026-11-20T07:40:00.633Z"
+    "createdAt": "2026-11-23T09:20:05.180Z"
   },
   "map": {
     "cells": {
@@ -376,7 +376,7 @@
       },
       "itemOutline": {
         "color": "#6A5647",
-        "width": 2
+        "width": 1
       },
       "regionLabel": {
         "color": "#7A6E60",
@@ -965,7 +965,7 @@
           },
           "itemOutline": {
             "color": "#6A5647",
-            "width": 2
+            "width": 1
           },
           "regionLabel": {
             "color": "#7A6E60",
@@ -1191,9 +1191,9 @@
         "version": 8,
         "gridSize": 6
       },
-      "mapId": 51985,
+      "mapId": 55490,
       "mapName": "槛外人",
-      "versionNo": 9
+      "versionNo": 10
     },
     "name": "槛外人",
     "clues": [

@@ -1,19 +1,19 @@
 {
   "key": "puzzle-hlm-dicuiting",
   "summary": {
-    "id": 9019,
-    "puzzleId": 24701,
+    "id": 9519,
+    "puzzleId": 25966,
     "themeCode": "hlm",
     "puzzleName": "滴翠亭",
-    "puzzleVersionNo": 18,
+    "puzzleVersionNo": 19,
     "name": "滴翠亭",
     "slug": "puzzle-hlm-dicuiting",
-    "coverUrl": "http://localhost:3000/api/files/games/9019/1ac13dc1-61f9-43b4-802e-8f26907893a7.png",
+    "coverUrl": "http://localhost:3000/api/files/games/9510/ef891334-81d6-4210-bf4f-a1c24e046561.png",
     "difficulty": 2,
     "sortWeight": 8,
     "gridSize": 7,
     "participantCount": 7,
-    "createdAt": "2026-11-20T15:34:51.146Z"
+    "createdAt": "2026-11-23T12:47:22.408Z"
   },
   "map": {
     "cells": {
@@ -446,7 +446,7 @@
       },
       "itemOutline": {
         "color": "#6A5647",
-        "width": 2
+        "width": 1
       },
       "regionLabel": {
         "color": "#7A6E60",
@@ -1179,7 +1179,7 @@
           },
           "itemOutline": {
             "color": "#6A5647",
-            "width": 2
+            "width": 1
           },
           "regionLabel": {
             "color": "#7A6E60",
@@ -1479,9 +1479,9 @@
         "version": 8,
         "gridSize": 7
       },
-      "mapId": 53332,
+      "mapId": 55491,
       "mapName": "滴翠亭",
-      "versionNo": 13
+      "versionNo": 14
     },
     "name": "滴翠亭",
     "clues": [],

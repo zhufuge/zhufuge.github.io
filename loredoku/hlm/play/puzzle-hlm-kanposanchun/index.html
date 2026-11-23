@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>勘破三春 · 格物</title>
+    <!--
+      v0.9.0（docs/v0.9.0.md §3）：播放器的入口。
+
+      与工坊的 index.html 是**两份产物**：这一份不含编辑器、不含工坊的 api 层，
+      数据来自构建时烤进产物的一个主题资源包（`vite.player.config.ts`）。
+      深色模式那段与工坊一致 —— 玩家的偏好是全站的，不该两个入口各记一套。
+    -->
+    <script>
+      (function () {
+        try {
+          var mode = window.localStorage.getItem('loredoku.theme');
+          var dark =
+            mode === 'dark' ||
+            (mode !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          var root = document.documentElement;
+          if (dark) root.classList.add('dark');
+          root.style.colorScheme = dark ? 'dark' : 'light';
+        } catch (error) {
+          // localStorage blocked (private mode): stay on the light default.
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/loredoku/assets/player-D2GYFGC_.js"></script>
+    <link rel="modulepreload" crossorigin href="/loredoku/assets/vendor-react-fM2xwYPa.js">
+    <link rel="modulepreload" crossorigin href="/loredoku/assets/vendor-query-t45vJ0lz.js">
+    <link rel="modulepreload" crossorigin href="/loredoku/assets/vendor-ui-iIwwVzGQ.js">
+    <link rel="stylesheet" crossorigin href="/loredoku/assets/player-BMEpdw-T.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
